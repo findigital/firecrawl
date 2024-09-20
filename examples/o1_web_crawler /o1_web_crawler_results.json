@@ -1,0 +1,2254 @@
+{
+  "vendors": [
+    {
+      "name": "Embellished Details LLC",
+      "url": "http://www.embellisheddetailsva.com",
+      "location": "106 West Broaddus Ave, Bowling Green, Virginia 22427, United States",
+      "description": "Floral Designer based in Ruther Glen, Va servicing the DMV area."
+    },
+    {
+      "name": "About the Details Draping & Event Styling",
+      "url": "https://www.aboutthedetailsnyc.com",
+      "location": "2 Fordham Hill Oval, Bronx, New York 10468, United States",
+      "phone": "917.806.0386",
+      "services": [
+        "Event design",
+        "Sweetheart/Cake Table Designs",
+        "Drapery",
+        "Backdrops",
+        "Centerpieces",
+        "Candles/holders",
+        "Table Linens",
+        "Florals*",
+        "Furniture Rentals*"
+      ]
+    },
+    {
+      "name": "ABC Catering",
+      "url": "http://www.abccatering.com",
+      "location": "New York, NY",
+      "description": "Specializing in custom wedding menus to fit every couple's taste."
+    },
+    {
+      "name": "XYZ Photography",
+      "url": "http://www.xyzphotography.com",
+      "location": "Los Angeles, CA",
+      "description": "Capturing beautiful moments that last a lifetime."
+    },
+    {
+      "name": "123 Florals",
+      "url": "http://www.123florals.com",
+      "location": "Chicago, IL",
+      "description": "Creating stunning floral arrangements for any wedding theme."
+    },
+    {
+      "name": "GIA Bridals",
+      "url": "https://vendors.munaluchibridal.com/listing/gia-bridals.html",
+      "location": "Bridal Stylists, Custom Gown designer",
+      "description": "We are a brand that specialises in luxury hand crafted, hand beaded wedding dresses, reception dresses and traditional Nigerian attire. Our dresses are made with built in support that means our clients can wear our dresses without a bra."
+    },
+    {
+      "name": "Yanie+Yael Event Planning",
+      "url": "https://vendors.munaluchibridal.com/listing/yanieyael-event-planning.html",
+      "location": "Wedding Planners, Wedding Decor",
+      "description": "NYC Trinidadian Wedding Planner and Event Designer that provides bespoke planning & design for refined couples across the Tri-State region, Trinidad and Atlanta."
+    },
+    {
+      "name": "Grand Oaks Country Club",
+      "url": "https://vendors.munaluchibridal.com/listing/grand-oaks-country-club.html",
+      "location": "Wedding Caterers, Catering, Wedding Venues",
+      "description": "The Grand Oaks Country club is our Staten Island, New York based elegant wedding venue designed to bring great atmosphere & excitement to all of our couples!"
+    },
+    {
+      "name": "GIA Bridals",
+      "url": "https://vendors.munaluchibridal.com/listing/gia-bridals.html",
+      "location": "Bridal Stylists, Custom Gown designer",
+      "description": "We are a brand that specialises in luxury hand crafted, hand beaded wedding dresses, reception dresses and traditional Nigerian attire."
+    },
+    {
+      "name": "Yanie+Yael Event Planning",
+      "url": "https://vendors.munaluchibridal.com/listing/yanieyael-event-planning.html",
+      "location": "Wedding Planners, Wedding Decor",
+      "description": "NYC Trinidadian Wedding Planner and Event Designer that provides bespoke planning & design for refined couples across the Tri-State region, Trinidad, and Atlanta."
+    },
+    {
+      "name": "Grand Oaks Country Club",
+      "url": "https://vendors.munaluchibridal.com/listing/grand-oaks-country-club.html",
+      "location": "Wedding Caterers, Catering, Wedding Venues",
+      "description": "The Grand Oaks Country club is our Staten Island, New York based elegant wedding venue designed to bring great atmosphere & excitement to all of our couples!"
+    },
+    {
+      "name": "GIA Bridals",
+      "url": "https://vendors.munaluchibridal.com/listing/gia-bridals.html",
+      "location": "Bridal Stylists, Custom Gown designer",
+      "description": "Luxury hand crafted, hand beaded wedding dresses, reception dresses, and traditional Nigerian attire. Built-in support for braless wear."
+    },
+    {
+      "name": "Yanie+Yael Event Planning",
+      "url": "https://vendors.munaluchibridal.com/listing/yanieyael-event-planning.html",
+      "location": "Wedding Planners, Wedding Decor",
+      "description": "NYC Trinidadian Wedding Planner and Event Designer providing bespoke planning & design for refined couples."
+    },
+    {
+      "name": "Grand Oaks Country Club",
+      "url": "https://vendors.munaluchibridal.com/listing/grand-oaks-country-club.html",
+      "location": "Wedding Caterers, Catering, Wedding Venues",
+      "description": "Staten Island, New York based elegant wedding venue designed to bring great atmosphere & excitement to all couples."
+    },
+    {
+      "name": "GIA Bridals",
+      "url": "https://vendors.munaluchibridal.com/listing/gia-bridals.html",
+      "location": "Unknown",
+      "description": "A brand that specialises in luxury hand crafted, hand beaded wedding dresses, reception dresses and traditional Nigerian attire. Dresses are made with built-in support."
+    },
+    {
+      "name": "Yanie+Yael Event Planning",
+      "url": "https://vendors.munaluchibridal.com/listing/yanieyael-event-planning.html",
+      "location": "NYC Trinidadian Wedding Planner and Event Designer",
+      "description": "NYC Trinidadian Wedding Planner and Event Designer that provides bespoke planning & design for refined couples across the Tri-State region, Trinidad and Atlanta."
+    },
+    {
+      "name": "Grand Oaks Country Club",
+      "url": "https://vendors.munaluchibridal.com/listing/grand-oaks-country-club.html",
+      "location": "Staten Island, New York",
+      "description": "Elegant wedding venue designed to bring great atmosphere & excitement to all of our couples!"
+    },
+    {
+      "name": "GIA Bridals",
+      "url": "https://vendors.munaluchibridal.com/listing/gia-bridals.html",
+      "location": "Unknown",
+      "description": "Specializes in luxury hand-crafted wedding dresses and traditional Nigerian attire."
+    },
+    {
+      "name": "Yanie+Yael Event Planning",
+      "url": "https://vendors.munaluchibridal.com/listing/yanieyael-event-planning.html",
+      "location": "NYC Trinidadian",
+      "description": "Provides bespoke planning & design for couples across the Tri-State region, Trinidad, and Atlanta."
+    },
+    {
+      "name": "Grand Oaks Country Club",
+      "url": "https://vendors.munaluchibridal.com/listing/grand-oaks-country-club.html",
+      "location": "Staten Island, New York",
+      "description": "Elegant wedding venue designed to bring great atmosphere & excitement to couples."
+    },
+    {
+      "name": "Wedding In A Box Ghana",
+      "url": "https://vendors.munaluchibridal.com/listing/wedding-in-a-box-ghana.html",
+      "location": "233, Ghana"
+    },
+    {
+      "name": "Virge Simone Images",
+      "url": "https://vendors.munaluchibridal.com/listing/virge-simone-images.html",
+      "location": "6777 NW 7th Ave, Miami, Florida 33150, United States",
+      "description": "Freezes 'forever moments' from engagement to wedding day."
+    },
+    {
+      "name": "Purple Twirl Events",
+      "url": "https://vendors.munaluchibridal.com/listing/purple-twirl-events.html",
+      "location": "31 Giffard Road, Accra - Ghana, Ghana",
+      "description": "Full service event planning firm offering event management and planning services for high quality, unique events."
+    },
+    {
+      "name": "In His Image Photography",
+      "url": "/listing/in-his-image-photography.html",
+      "location": "North Carolina",
+      "description": "Offered by In His Image Photography. When Darrell met Christine at a friends get together he knew she was the one. Eight years later, he surprised Christine with a proposal after the kids had fallen asleep while waiting for Santa. It was 12 a.m. Christmas day when Darrell gave Christine a \u201cspecial\u201d gift to open early."
+    },
+    {
+      "name": "A Monique Affair",
+      "url": "/listing/a-monique-affair.html",
+      "location": "California",
+      "description": "Real {California} Wedding with Blush & Grey Details: Layla + Eric"
+    },
+    {
+      "name": "About the Details Draping & Event Styling",
+      "url": "https://www.aboutthedetailsnyc.com",
+      "location": "2 Fordham Hill Oval, Bronx, New York 10468, United States",
+      "description": "A Boutique Wedding Design company that specializes in sweetheart table setups, and custom pipe and drape designs. Your Unique Style, Our Signature Details... One Memorable Event. About the Details Draping & Event Styling is a boutique design service that specializes in sweetheart table displays, and premium pipe and drape designs customized for those seeking to present an elegant and grand guest experience."
+    },
+    {
+      "name": "Embellished Details LLC",
+      "url": "http://www.embellisheddetailsva.com",
+      "location": "106 West Broaddus Ave, Bowling Green, Virginia 22427, United States",
+      "description": "Floral Designer based in Ruther Glen, Va servicing the DMV area. Committed to providing an AMAZING experience from beginning to end. Perfect for the client who loves modern, chic, and luxe details while wanting nothing less than a remarkable affair. Love for lush floral designs, impeccable attention to detail and passion for creating beautiful and unique events."
+    },
+    {
+      "name": "Finer Touch Entertainment",
+      "url": "https://vendors.munaluchibridal.com/article/celebrating-30-years-of-amazing-the-beginning-of-finer-touch-entertainment.html",
+      "location": null,
+      "description": "As Finer Touch Entertainment, a DJ/event entertainment company, celebrates 30 years of success and countless priceless memories made, owner and founder, Harold Johnson, reflects on his beginnings and all that Finer Touch has accomplished."
+    },
+    {
+      "name": "Byrd Nest Events and Design",
+      "url": "https://vendors.munaluchibridal.com/article/interview-with-nicole-byrd-of-byrd-nest-events-and-design.html",
+      "location": null,
+      "description": "After spending five years in banking, Nicole Byrd decided to pursue her lifelong passion for design and party planning by officially becoming an event designer."
+    },
+    {
+      "name": "A Monique Affair",
+      "url": "https://vendors.munaluchibridal.com/article/coterie-spotlight-chanda-of-a-monique-affair-talks-wedding-planning.html",
+      "location": "California",
+      "description": "Our first vendor spotlight is on a trendy and classy wedding planner based out of California \u2013 Chanda Eddens of A Monique Affair."
+    },
+    {
+      "name": "Kosibah",
+      "url": "https://vendors.munaluchibridal.com/article/kosibahs-first-ready-to-wear-2020-bridal-collection-asheyori.html",
+      "location": "London UK, Brooklyn NYC",
+      "description": "Established in London UK in 1991 and now based in Brooklyn NYC, wedding gown designer Yemi Kosibah specializes in creating contemporary and elegant bridal gowns that curve, shape, and flatter diverse body types."
+    },
+    {
+      "name": "Neri Events",
+      "url": "https://vendors.munaluchibridal.com/article/interview-florida-based-luxury-event-planner-neri-events.html",
+      "location": "Florida",
+      "description": "Neri Events is dedicated to creating unexpected events, lasting memories, and lifelong relationships. Our focus is on the people, our love is in the details and we operate with respect, logic and efficiency."
+    },
+    {
+      "name": "Lux Lifestyle Events",
+      "url": "https://vendors.munaluchibridal.com/article/coterie-spotlight-an-interview-with-florida-wedding-planner-lux-lifestyle-events.html",
+      "location": "Florida",
+      "description": "MunaLuchi Coterie member and event planning extraordinaire, Melisa Brown of Lux Lifestyle Event Llc, brings fourteen years of industry experience to your most special of moments."
+    },
+    {
+      "name": "Pretty Posh Events",
+      "url": "https://vendors.munaluchibridal.com/article/coterie-spotlight-pretty-posh-events-planning-floral-design.html",
+      "location": "North Brunswick, NJ",
+      "description": "Pretty Posh Events is a boutique Event Planning and Design Company, based out of North Brunswick NJ and serving the tri-state area as well as several destinations."
+    },
+    {
+      "name": "Taaenoelle + Co.",
+      "url": "https://vendors.munaluchibridal.com/listing/taaenoelle-co.html",
+      "location": "N/A",
+      "description": "Unique items/stationery that speak to brides and all things pretty."
+    },
+    {
+      "name": "L Prestigious Events",
+      "url": "https://vendors.munaluchibridal.com/listing/l-prestigious-events-llc.html",
+      "location": "N/A",
+      "description": "L Prestigious Events is a certified New York wedding and event planning team. We take pride in working with engaged couples to plan one of the biggest days in their lives. As professional planners, we take on the world one wedding at a time."
+    },
+    {
+      "name": "Inspired Weddings and Events Inc",
+      "url": "https://vendors.munaluchibridal.com/listing/inspired-weddings-and-events-inc-61f585306e488.html",
+      "location": "N/A",
+      "description": "Inspired Weddings and Events Inc is a holistic wedding planning company who produces eco-luxury weddings and extraordinary marriages."
+    },
+    {
+      "name": "Tosho Woods",
+      "url": "https://vendors.munaluchibridal.com/listing/tosho-woods.html",
+      "location": "Casaloma Court, 8, Ilasan New Road, By World Oil Filing Station, Ilasan, Lekki 234, Nigeria",
+      "description": "Tosho Woods is an International Brand that offers truly personalized designs and ship worldwide. We believe in amplifying your personality, aura and individuality by presenting you as the most authentic version of yourself on your wedding day."
+    },
+    {
+      "name": "GIA Bridals",
+      "url": "https://vendors.munaluchibridal.com/listing/gia-bridals.html",
+      "location": "79 tombia extension GRA Portharcour, Portharcourt, River State 100005, Nigeria",
+      "description": "We are a brand that specialises in luxury hand crafted, hand beaded wedding dresses, reception dresses and traditional Nigerian attire. Our dresses are made with built in support that means our clients can wear our dresses without a bra."
+    },
+    {
+      "name": "Virge Simone Images",
+      "url": "https://vendors.munaluchibridal.com/listing/virge-simone-images.html",
+      "location": "6777 NW 7th Ave, Miami, Florida 33150, United States",
+      "description": "Hi! My name is Simone, lead photographer of Virge Simone Images. We freeze 'forever moments' from your engagement session to your wedding day. We create a beautiful blend of editorial and photo-journalistic images that is uniquely YOU."
+    },
+    {
+      "name": "Taaenoelle + Co.",
+      "url": "https://vendors.munaluchibridal.com/listing/taaenoelle-co.html",
+      "location": "Unknown",
+      "description": "Unique items/stationery that speak to brides and all things pretty."
+    },
+    {
+      "name": "L Prestigious Events",
+      "url": "https://vendors.munaluchibridal.com/listing/l-prestigious-events-llc.html",
+      "location": "New York",
+      "description": "L Prestigious Events is a certified New York wedding and event planning team. We take pride in working with engaged couples to plan one of the biggest days in their lives. As professional planners, we take on the world one wedding at a time."
+    },
+    {
+      "name": "Inspired Weddings and Events Inc",
+      "url": "https://vendors.munaluchibridal.com/listing/inspired-weddings-and-events-inc-61f585306e488.html",
+      "location": "Unknown",
+      "description": "Inspired Weddings and Events Inc is a holistic wedding planning company who produces eco-luxury weddings and extraordinary marriages."
+    },
+    {
+      "name": "Couture Designs",
+      "url": "https://vendors.munaluchibridal.com/listing/couture-designs.html",
+      "location": "Nassau, The Bahamas",
+      "description": "Floral & Event Designers in The Bahamas"
+    },
+    {
+      "name": "Pappion Artistry, Live Wedding Painter & Custom Wedding Art",
+      "url": "https://vendors.munaluchibridal.com/listing/pappion-artistry.html",
+      "location": "Mandeville, Louisiana, United States",
+      "description": "Christina Pappion is a live wedding painter that travels to your wedding and paints the reception for guests as it is happening! She also creates custom signs and canvases using a series of photos and details!"
+    },
+    {
+      "name": "Virge Simone Images",
+      "url": "https://vendors.munaluchibridal.com/listing/virge-simone-images.html",
+      "location": "Miami, Florida, United States",
+      "description": "Hi! My name is Simone, lead photographer of Virge Simone Images. We freeze 'forever moments' from your engagement session to your wedding day. We create a beautiful blend of editorial and photo-journalistic images that is uniquely YOU."
+    },
+    {
+      "name": "Just Complete Coverage - Weddings of a Lifetime",
+      "url": "https://vendors.munaluchibridal.com/listing/just-complete-coverage-events.html",
+      "location": "Nassau, The Bahamas",
+      "description": "A Bridal consulting and Wedding Coordinating firm with an experienced team to help you design the wedding of your dreams."
+    },
+    {
+      "name": "CWC Events Inc.",
+      "url": "https://vendors.munaluchibridal.com/listing/cwc-events.html",
+      "location": "St. James, Saint James, Barbados",
+      "description": "Introducing CWC Events: Your Gateway to Luxurious Caribbean Destination Weddings! We create enchanting destination weddings against the breathtaking backdrop of the Caribbean's turquoise waters, lush landscapes, and vibrant culture."
+    },
+    {
+      "name": "Taaenoelle + Co.",
+      "url": "https://vendors.munaluchibridal.com/listing/taaenoelle-co.html",
+      "location": "Not available",
+      "description": "Unique items/stationery that speak to brides and all things pretty."
+    },
+    {
+      "name": "L Prestigious Events",
+      "url": "https://vendors.munaluchibridal.com/listing/l-prestigious-events-llc.html",
+      "location": "Not available",
+      "description": "L Prestigious Events is a certified New York wedding and event planning team. We take pride in working with engaged couples to plan one of the biggest days in their lives. As professional planners, we take on the world one wedding at a time."
+    },
+    {
+      "name": "Inspired Weddings and Events Inc",
+      "url": "https://vendors.munaluchibridal.com/listing/inspired-weddings-and-events-inc-61f585306e488.html",
+      "location": "Not available",
+      "description": "Inspired Weddings and Events Inc is a holistic wedding planning company who produces eco-luxury weddings and extraordinary marriages."
+    },
+    {
+      "name": "Celeste and Reece Photography",
+      "url": "https://vendors.munaluchibridal.com/listing/celeste-and-reece-photography.html",
+      "location": "Barbados",
+      "description": "Destination wedding photographers in the Caribbean (Barbados, Tobago and St. Lucia) available worldwide. Bringing elegance and excellence to every celebration, ensuring your love story is beautifully captured"
+    },
+    {
+      "name": "Weddings With Flair",
+      "url": "https://vendors.munaluchibridal.com/listing/weddings-with-flair.html",
+      "location": "Port of Spain, Trinidad and Tobago",
+      "description": "At Weddings with Flair, we believe in starting a conversation, inspiring a vision, creating an experience, and leaving a legacy. We want to help you create memories that last a lifetime. Contact us today to bring your vision to life together!"
+    },
+    {
+      "name": "Platinum Label Weddings, LLC",
+      "url": "https://vendors.munaluchibridal.com/listing/platinum-label-weddings-llc.html",
+      "location": "Columbia, South Carolina 29212, United States",
+      "description": "Platinum Label Weddings, LLC is an award winning full-service wedding planning company. Specializing in destination weddings, at home, or over-seas. Our mission is to create beautiful events while creating memorable moments."
+    },
+    {
+      "name": "Taaenoelle + Co.",
+      "url": "https://vendors.munaluchibridal.com/listing/taaenoelle-co.html",
+      "location": "Unknown",
+      "description": "Unique items/stationery that speak to brides and all things pretty."
+    },
+    {
+      "name": "L Prestigious Events",
+      "url": "https://vendors.munaluchibridal.com/listing/l-prestigious-events-llc.html",
+      "location": "New York",
+      "description": "Certified New York wedding and event planning team."
+    },
+    {
+      "name": "Inspired Weddings and Events Inc",
+      "url": "https://vendors.munaluchibridal.com/listing/inspired-weddings-and-events-inc-61f585306e488.html",
+      "location": "Unknown",
+      "description": "Holistic wedding planning company producing eco-luxury weddings."
+    },
+    {
+      "name": "Redlight Photography LLC",
+      "url": "https://vendors.munaluchibridal.com/listing/redlight-photography-llc.html",
+      "location": "Fort Lauderdale, Florida, United States",
+      "description": "Focus on capturing natural candid moments."
+    },
+    {
+      "name": "Love Stories By Smitty",
+      "url": "https://vendors.munaluchibridal.com/listing/lovestoriesbysmitty.html",
+      "location": "Miami, Florida, United States",
+      "description": "Specializing in documenting timeless memories for couples."
+    },
+    {
+      "name": "Bridal By Marly",
+      "url": "https://vendors.munaluchibridal.com/listing/bridal-by-marly.html",
+      "location": "Boynton Beach, Florida, United States",
+      "description": "No specific description provided."
+    },
+    {
+      "name": "D\u00c9J\u00c0 VU SWEETS",
+      "url": "https://vendors.munaluchibridal.com/listing/deja-vu-sweets.html",
+      "location": "Coral Springs, Florida, United States",
+      "description": "Custom cakes and desserts for weddings and events."
+    },
+    {
+      "name": "K&R One Stop Bridal",
+      "url": "https://vendors.munaluchibridal.com/listing/kr-one-stop-bridal.html",
+      "location": "Boynton Beach, FL 33426 United States",
+      "description": "All-inclusive packages for various events."
+    },
+    {
+      "name": "Platinum Label Weddings, LLC",
+      "url": "https://vendors.munaluchibridal.com/listing/platinum-label-weddings-llc.html",
+      "location": "Columbia, South Carolina 29212, United States",
+      "description": "Specializing in award-winning full-service wedding planning."
+    },
+    {
+      "name": "AJ Events",
+      "url": "https://vendors.munaluchibridal.com/listing/aj-events.html",
+      "location": "75 Newbury Street, 3rd Floor, Boston, Massachusetts 02116, United States",
+      "description": "Offering full-service experience for weddings."
+    },
+    {
+      "name": "Neri Events",
+      "url": "https://vendors.munaluchibridal.com/listing/neri-events.html",
+      "location": "Miami, Florida, United States",
+      "description": "Dedicated to creating unexpected events and lasting memories."
+    },
+    {
+      "name": "THE KEY LOOK",
+      "url": "https://vendors.munaluchibridal.com/listing/thekeylook.html",
+      "location": "Rahway, New Jersey 07065, United States",
+      "description": "Luxury hair & makeup bridal team for weddings."
+    },
+    {
+      "name": "St.Clerv Photo, LLC",
+      "url": "https://vendors.munaluchibridal.com/listing/stclerv-llc.html",
+      "location": "Ft Lauderdale, Florida 33309, United States",
+      "description": "Wedding photography company with a vision for all elements."
+    },
+    {
+      "name": "Taaenoelle + Co.",
+      "url": "https://vendors.munaluchibridal.com/listing/taaenoelle-co.html",
+      "location": "",
+      "description": "Unique items/stationery that speak to brides and all things pretty."
+    },
+    {
+      "name": "L Prestigious Events",
+      "url": "https://vendors.munaluchibridal.com/listing/l-prestigious-events-llc.html",
+      "location": "",
+      "description": "L Prestigious Events is a certified New York wedding and event planning team."
+    },
+    {
+      "name": "Inspired Weddings and Events Inc",
+      "url": "https://vendors.munaluchibridal.com/listing/inspired-weddings-and-events-inc-61f585306e488.html",
+      "location": "",
+      "description": "Inspired Weddings and Events Inc is a holistic wedding planning company."
+    },
+    {
+      "name": "Finer Touch Entertainment",
+      "url": "https://vendors.munaluchibridal.com/listing/finer-touch-entertainment-5c75a33921b84.html",
+      "location": "81 Pondfield Road, Bronxville, New York 10708, United States",
+      "description": "We offer the very best in DJ entertainment, live music, photo booths, special effects and more."
+    },
+    {
+      "name": "The Ritz-Walton Wedding Collection",
+      "url": "https://vendors.munaluchibridal.com/listing/the-ritz-walton-collection-5c75a33b2fd6d.html",
+      "location": "73 Washington Street, Store, Bloomfield, New Jersey 07003, United States",
+      "description": "Wedding Floral Specialist Bringing Elegance & Beauty through Flowers"
+    },
+    {
+      "name": "Top Tier Artistry",
+      "url": "https://vendors.munaluchibridal.com/listing/top-tier-artistry.html",
+      "location": "New Jersey, United States",
+      "description": "We are a New Jersey based team offering makeup & hairstyling for brides."
+    },
+    {
+      "name": "Social Events By J",
+      "url": "https://vendors.munaluchibridal.com/listing/social-events-by-j.html",
+      "location": "Elizabeth, New Jersey, United States",
+      "description": "Social Events By J specializes in creating unforgettable wedding experiences."
+    },
+    {
+      "name": "Marigold NJ",
+      "url": "https://vendors.munaluchibridal.com/listing/marigold-nj.html",
+      "location": "315 Churchill Ave Somerset, NJ, Franklin Park, New Jersey 08873, United States",
+      "description": "The Marigold is a luxury facility that can accommodate 100 to 550 guests."
+    },
+    {
+      "name": "Shear Angel Hair & Makeup Studio",
+      "url": "https://vendors.munaluchibridal.com/listing/shear-angel-hair-makeup-studio.html",
+      "location": "240 Rt 10 W (IMAGE Studios), Suite 131, New Jersey 07936, United States",
+      "description": "Shear Angel Hair & Makeup Studio offers luxury bridal hair and glamour services."
+    },
+    {
+      "name": "Delivering Experiences LLC",
+      "url": "https://vendors.munaluchibridal.com/listing/delivering-experiences-llc.html",
+      "location": "23 Jackson Avenue, South Hackensack, New Jersey 07606, United States",
+      "description": "Led by Juan Hernandez, Delivering Experiences LLC provides unique hospitality services."
+    },
+    {
+      "name": "Fontaine Concierge",
+      "url": "https://vendors.munaluchibridal.com/listing/fontaineconcierge.html",
+      "location": "Newark, New Jersey, United States",
+      "description": "Fontaine Concierge offers full groomsmen concierge services for weddings."
+    },
+    {
+      "name": "iExclusive Productions",
+      "url": "https://vendors.munaluchibridal.com/listing/iexclusive-productions.html",
+      "location": "102 Ashby Ct, Mount Laurel, New Jersey 08054, United States",
+      "description": "iExclusive Productions uses creativity to create timeless works of art for clients."
+    },
+    {
+      "name": "THE KEY LOOK",
+      "url": "https://vendors.munaluchibridal.com/listing/thekeylook.html",
+      "location": "Rahway, New Jersey 07065, United States",
+      "description": "THE KEY LOOK offers luxury hair & makeup bridal services in New Jersey."
+    },
+    {
+      "name": "MoJoGlow Makeup Artistry",
+      "url": "https://vendors.munaluchibridal.com/listing/mojoglow-makeup-artistry.html",
+      "location": "New Jersey, United States",
+      "description": "MoJoGlow Makeup Artistry specializes in all things beauty for weddings."
+    },
+    {
+      "name": "Oh Niki Occasions",
+      "url": "https://vendors.munaluchibridal.com/listing/oh-niki-occasions-munaluchi.html",
+      "location": "West Palm Beach, Florida, United States",
+      "description": "Oniki Hardtman of Oh Niki Occasions specializes in Destination Wedding Planning & Elegant Event Design."
+    },
+    {
+      "name": "Taaenoelle + Co.",
+      "url": "https://vendors.munaluchibridal.com/listing/taaenoelle-co.html",
+      "location": "N/A",
+      "description": "Unique items/stationery that speak to brides and all things pretty."
+    },
+    {
+      "name": "L Prestigious Events",
+      "url": "https://vendors.munaluchibridal.com/listing/l-prestigious-events-llc.html",
+      "location": "N/A",
+      "description": "L Prestigious Events is a certified New York wedding and event planning team. We take pride in working with engaged couples to plan one of the biggest days in their lives. As professional planners, we take on the world one wedding at a time."
+    },
+    {
+      "name": "Inspired Weddings and Events Inc",
+      "url": "https://vendors.munaluchibridal.com/listing/inspired-weddings-and-events-inc-61f585306e488.html",
+      "location": "N/A",
+      "description": "Inspired Weddings and Events Inc is a holistic wedding planning company who produces eco-luxury weddings and extraordinary marriages."
+    },
+    {
+      "name": "Kosibah",
+      "url": "https://vendors.munaluchibridal.com/listing/kosibah-llc-5c75a33fb9be2.html",
+      "location": "51 Jay Street, #5O, Brooklyn, New York 11201, United States",
+      "description": "Kosibah is a couture bridal and evening wear brand with its main Atelier based in DUMBO Brooklyn, NYC. Kosibah also design and create couture Reception/ Second Bridal Gowns and Mother of the Bride and Groom outfits. Kosibah now has a RTW Bridal line."
+    },
+    {
+      "name": "The Fork Goes on The Left",
+      "url": "https://vendors.munaluchibridal.com/listing/the-fork-goes-on-the-left-5c75a33a52506.html",
+      "location": "Brooklyn, Brooklyn, New York 11221, United States",
+      "description": "I'm an off-premise cater serving the tri-state area. I travel to your location with my staff of servers and Sous Chefs. We present all of our services with professionalism and competency. It is our desire to make your wedding day food, memorable."
+    },
+    {
+      "name": "Dining With Grace, Inc",
+      "url": "https://vendors.munaluchibridal.com/listing/dining-with-grace-inc.html",
+      "location": "676 Nostrand Ave , Brooklyn, New York 11216, United States",
+      "description": "Experience the best of elegant Nigerian, Pan-African, Caribbean and globally inspired cuisines for multicultural weddings. While based in Brooklyn, NY we are available serve both local and international clientele."
+    },
+    {
+      "name": "Envisioned Events by Suzette, LLC",
+      "url": "https://vendors.munaluchibridal.com/listing/envisioned-events-by-suzette-llc-5c75a33e544bf.html",
+      "location": "Brooklyn, New York, United States",
+      "description": "Envisioned Events by Suzette is where exceptional Wedding & Event experiences are created anywhere around the world; always keeping your vision in mind. Be a guest at your own wedding and let us take care of the details and logistics."
+    },
+    {
+      "name": "EventsByK_Weddings",
+      "url": "https://vendors.munaluchibridal.com/listing/eventsbykweddings.html",
+      "location": "Brooklyn, New York, United States",
+      "description": "EventsByK_Weddings offers a full concierge experience for our couples based in NYC. We specialize in curating luxurious, and the most unforgettable events that truly represents our clients."
+    },
+    {
+      "name": "Finer Touch Entertainment",
+      "url": "https://vendors.munaluchibridal.com/listing/finer-touch-entertainment-5c75a33921b84.html",
+      "location": "81 Pondfield Road , (Suite D-296), Bronxville, New York 10708, United States",
+      "description": "We offer the very best in DJ entertainment, live music, photo booths, special effects and more. Let the team at FTE curate the music for what will be one of the most important days of your life. We will make your day a truly memorable experience."
+    },
+    {
+      "name": "Exeqtive Entertainment",
+      "url": "https://vendors.munaluchibridal.com/listing/exeqtive-entertainment.html",
+      "location": "Brooklyn, New York, United States",
+      "description": "Exeqtive Entertainment is a wedding DJ business based out of Brooklyn, New York. Offering a high-end musical entertainment and MC service, we aim to create a party atmosphere for your reception that keeps your dance floor filled all night long."
+    },
+    {
+      "name": "Bluu Ribbon Events",
+      "url": "https://vendors.munaluchibridal.com/listing/bluu-ribbon-events.html",
+      "location": "3135 easton tpke, Verizon Ihub, Connecticut 06825, United States",
+      "description": "Wedding planning should be fun. Your engagement should be blissful and I only have one opportunity to make this your BEST day ever!"
+    },
+    {
+      "name": "Greenidge Works LLC",
+      "url": "https://vendors.munaluchibridal.com/listing/greenidge-works-llc.html",
+      "location": "9402 Church Ave #121020, Brooklyn, New York 11212, United States",
+      "description": "Greenidge Works LLC Professional DJ/MC, Sound, Lighting , Audio Visual Rentals & Entertainment."
+    },
+    {
+      "name": "Taaenoelle + Co.",
+      "url": "https://vendors.munaluchibridal.com/listing/taaenoelle-co.html",
+      "location": "Charlotte",
+      "services": [
+        "Wedding Invitations",
+        "Wedding Favors",
+        "Gifts & Custom Sign",
+        "Wedding Calligraphers",
+        "Custom Wedding Art"
+      ],
+      "description": "Unique items/stationery that speak to brides and all things pretty."
+    },
+    {
+      "name": "L Prestigious Events",
+      "url": "https://vendors.munaluchibridal.com/listing/l-prestigious-events-llc.html",
+      "location": "New York",
+      "services": [
+        "Wedding Designers",
+        "Wedding Planners",
+        "Wedding Decor",
+        "Day of Coordinators"
+      ],
+      "description": "Certified New York wedding and event planning team specializing in creating unforgettable weddings."
+    },
+    {
+      "name": "Inspired Weddings and Events Inc",
+      "url": "https://vendors.munaluchibridal.com/listing/inspired-weddings-and-events-inc-61f585306e488.html",
+      "location": "Unknown",
+      "services": [
+        "Wedding Designers",
+        "Wedding Planners",
+        "Travel Advisors",
+        "Pre-Marital Counseling",
+        "Day of Coordinators",
+        "Skin Care"
+      ],
+      "description": "Holistic wedding planning company specializing in eco-luxury weddings and extraordinary marriages."
+    },
+    {
+      "name": "The Event Group International",
+      "url": "https://vendors.munaluchibridal.com/listing/the-event-group-international.html",
+      "location": "Various locations (US, Caribbean, Mexico, Worldwide)",
+      "services": [
+        "Wedding Design",
+        "Coordination",
+        "Management"
+      ],
+      "description": "Full service wedding design, coordination, and management with exceptional attention to detail and flawless execution."
+    },
+    {
+      "name": "Mahogany Brown Bridal",
+      "url": "https://vendors.munaluchibridal.com/listing/mahogany-brown-bridal.html",
+      "location": "Charlotte, North Carolina",
+      "services": [
+        "Bridal Stylists",
+        "Bridal Salons",
+        "Custom Gown Designer"
+      ],
+      "description": "Luxurious bridal gown boutique offering high-end multi-cultural designed bridal gowns."
+    },
+    {
+      "name": "The Diva Wedding Planner, LLC",
+      "url": "https://vendors.munaluchibridal.com/listing/cindy-love.html",
+      "location": "Columbia, South Carolina",
+      "services": [
+        "Wedding Planners"
+      ],
+      "description": "Luxury wedding planning services with a focus on personalized attention and dream weddings."
+    },
+    {
+      "name": "In His Image Photography",
+      "url": "https://vendors.munaluchibridal.com/listing/in-his-image-photography.html",
+      "location": "Raleigh, North Carolina",
+      "services": [
+        "Wedding Photographers"
+      ],
+      "description": "Specializing in publication-worthy wedding photos capturing the essence of love and celebration."
+    },
+    {
+      "name": "Fontaine Concierge",
+      "url": "https://vendors.munaluchibridal.com/listing/fontaineconcierge.html",
+      "location": "Newark, New Jersey",
+      "services": [
+        "Wedding Accessories",
+        "Menswear",
+        "Wedding Favors",
+        "Gifts & Custom Sign",
+        "Day of Coordinators",
+        "Wedding Grooming"
+      ],
+      "description": "Full groomsmen concierge services to ensure a properly taken care of groom and party."
+    },
+    {
+      "name": "Platinum Label Weddings, LLC",
+      "url": "https://vendors.munaluchibridal.com/listing/platinum-label-weddings-llc.html",
+      "location": "Columbia, South Carolina",
+      "services": [
+        "Wedding Planners"
+      ],
+      "description": "Award-winning full-service wedding planning company specializing in destination weddings."
+    },
+    {
+      "name": "Behind The Scenes Inc",
+      "url": "https://vendors.munaluchibridal.com/listing/behind-the-scenes-inc.html",
+      "location": "Gibsonville, North Carolina",
+      "services": [
+        "Wedding Planners",
+        "Travel Advisors"
+      ],
+      "description": "Creating stylish events through masterful planning and coordination in any destination worldwide."
+    },
+    {
+      "name": "Taaenoelle + Co.",
+      "url": "https://vendors.munaluchibridal.com/listing/taaenoelle-co.html",
+      "location": "Unknown",
+      "description": "Unique items/stationery that speak to brides and all things pretty."
+    },
+    {
+      "name": "L Prestigious Events",
+      "url": "https://vendors.munaluchibridal.com/listing/l-prestigious-events-llc.html",
+      "location": "New York",
+      "description": "Certified New York wedding and event planning team."
+    },
+    {
+      "name": "Inspired Weddings and Events Inc",
+      "url": "https://vendors.munaluchibridal.com/listing/inspired-weddings-and-events-inc-61f585306e488.html",
+      "location": "Unknown",
+      "description": "Holistic wedding planning company producing eco-luxury weddings."
+    },
+    {
+      "name": "Sheila Bethel",
+      "url": "https://vendors.munaluchibridal.com/listing/sheila-bethel.html",
+      "location": "Wichita Falls, Texas",
+      "description": "Destination Wedding held in Dominican Republic."
+    },
+    {
+      "name": "Flemings Photography",
+      "url": "https://vendors.munaluchibridal.com/listing/flemings-photography.html",
+      "location": "Dallas, Texas",
+      "description": "Destination wedding photographer documenting love stories."
+    },
+    {
+      "name": "Breaux Moments Studios",
+      "url": "https://vendors.munaluchibridal.com/listing/breaux-moments-studios.html",
+      "location": "Missouri City, Texas",
+      "description": "Specializes in curating cinematic artistry through photo and video."
+    },
+    {
+      "name": "Alicia Rinka Photography",
+      "url": "https://vendors.munaluchibridal.com/listing/alicia-rinka-photography.html",
+      "location": "Aspen, Colorado",
+      "description": "Specializes in capturing artistic imagery with an editorial & photojournalistic approach."
+    },
+    {
+      "name": "The Event Group International",
+      "url": "https://vendors.munaluchibridal.com/listing/the-event-group-international.html",
+      "location": "Worldwide",
+      "description": "Full-service Wedding Design, Coordination, and Management company."
+    },
+    {
+      "name": "THE MRS. Bridal Subscription",
+      "url": "https://vendors.munaluchibridal.com/listing/the-mrs.html",
+      "location": "Houston, Texas",
+      "description": "Bridal subscription box designed for women of color."
+    },
+    {
+      "name": "Dorvilier Events & Co.",
+      "url": "https://vendors.munaluchibridal.com/listing/luxury-event-wedding-planner.html",
+      "location": "Mc Kinney, Texas",
+      "description": "Premier luxury wedding planning company focused on client satisfaction."
+    },
+    {
+      "name": "THE KEY LOOK",
+      "url": "https://vendors.munaluchibridal.com/listing/thekeylook.html",
+      "location": "Rahway, New Jersey",
+      "description": "Luxury hair & makeup bridal team based in New Jersey."
+    },
+    {
+      "name": "Pappion Artistry, Live Wedding Painter & Custom Wedding Art",
+      "url": "https://vendors.munaluchibridal.com/listing/pappion-artistry.html",
+      "location": "Mandeville, Louisiana",
+      "description": "Live wedding painter creating custom signs and canvases."
+    },
+    {
+      "name": "Monica Blackshire Photography",
+      "url": "https://vendors.munaluchibridal.com/listing/monica-blackshire-photography.html",
+      "location": "Houston, Texas",
+      "description": "Goal is to document and publish love stories."
+    },
+    {
+      "name": "TruBlue Travels",
+      "url": "https://vendors.munaluchibridal.com/listing/trublue-travels.html",
+      "location": "Florida, United States",
+      "description": "International and romantic travel agency specializing in honeymoons and destination weddings."
+    },
+    {
+      "name": "OVA Design & Decor",
+      "url": "https://vendors.munaluchibridal.com/listing/ova-design-decor.html",
+      "location": "Houston, Texas",
+      "description": "Passionate about creating stunning events and special memories."
+    },
+    {
+      "name": "Runnin' Buzz Bartending Services, LLC",
+      "url": "https://vendors.munaluchibridal.com/listing/runnin-buzz-bartending-services-llc.html",
+      "location": "Florida, United States",
+      "description": "Runnin' Buzz Bartending is a mobile bartending and beverage catering service that guarantees you and your guests a unique and personalized experience so your special wedding day will be more memorable, all while being a guest of your own wedding."
+    },
+    {
+      "name": "L Prestigious Events",
+      "url": "https://vendors.munaluchibridal.com/listing/l-prestigious-events-llc.html",
+      "location": "Bronx, New York, United States",
+      "description": "L Prestigious Events is a certified New York wedding and event planning team. We take pride in working with engaged couples to plan one of the biggest days in their lives. As professional planners, we take on the world one wedding at a time."
+    },
+    {
+      "name": "Inspired Weddings and Events Inc",
+      "url": "https://vendors.munaluchibridal.com/listing/inspired-weddings-and-events-inc-61f585306e488.html",
+      "location": "155 Commerce Valley Dr E, Thornhill , Thornhill, Ontario L3T 7T2, Canada",
+      "description": "Inspired Weddings and Events Inc is a holistic wedding planning company who produces eco-luxury weddings and extraordinary marriages."
+    },
+    {
+      "name": "The Ritz-Walton Wedding Collection",
+      "url": "https://vendors.munaluchibridal.com/listing/the-ritz-walton-collection-5c75a33b2fd6d.html",
+      "location": "73 Washington Street, Store, Bloomfield, New Jersey 07003, United States",
+      "description": "Wedding Floral Specialist Bringing Elegance & Beauty through Flowers"
+    },
+    {
+      "name": "Ambiance Created LLC",
+      "url": "https://vendors.munaluchibridal.com/listing/ambiance-created-llc.html",
+      "location": "210 Sterling Ave, Delaware 19720-4730, United States",
+      "description": "Ambiance Created; where moments are transformed into beautiful memories. We are a wedding and events planning and design company servicing DE, NJ, PA, & MD. We can also extend our reach globally to accommodate our clients\u2019 needs."
+    },
+    {
+      "name": "Confetti Grand Belize",
+      "url": "https://vendors.munaluchibridal.com/listing/confetti-grand-belize.html",
+      "location": "1752 Coney Drive, Belize City, United States",
+      "description": "We are an award-winning team of the most experienced wedding specialists in Belize. We work passionately to customize your vision for your special day. Every love story deserves to be celebrated for its unique details & that is our promise to you"
+    },
+    {
+      "name": "Social Events By J",
+      "url": "https://vendors.munaluchibridal.com/listing/social-events-by-j.html",
+      "location": "Elizabeth, New Jersey, United States",
+      "description": "Social Events By J, based in New Jersey, specializes in creating unforgettable wedding experiences since 2017. Our dedication lies in delivering exceptional service without compromising affordability."
+    },
+    {
+      "name": "The Diva Wedding Planner, LLC",
+      "url": "https://vendors.munaluchibridal.com/listing/cindy-love.html",
+      "location": "Columbia, South Carolina 29223, United States",
+      "description": "The Diva of Luxury Weddings! Dream Wedding Loading.....All You Need Is Love and The Diva Wedding Planner ! Full Wedding Planning and 90 Days of Wedding Planning!"
+    },
+    {
+      "name": "Just Complete Coverage - Weddings of a Lifetime",
+      "url": "https://vendors.munaluchibridal.com/listing/just-complete-coverage-events.html",
+      "location": "Old Forte Bay Town Centre, Nassau 00000, The Bahamas",
+      "description": "A Bridal consulting and Wedding Coordinating firm with an experienced team to help you design the wedding of your dreams."
+    },
+    {
+      "name": "Petals & Promises Jamaica",
+      "url": "https://vendors.munaluchibridal.com/listing/petals-promises.html",
+      "location": "5 Bedford Park Ave, Jamaica",
+      "description": "Petals & Promises Jamaica is a full-service wedding boutique, event planning, and design firm located in Jamaica, the heart of the Caribbean"
+    },
+    {
+      "name": "AJ Events",
+      "url": "https://vendors.munaluchibridal.com/listing/aj-events.html",
+      "location": "75 Newbury Street, 3rd Floor, Boston, Massachusetts 02116, United States",
+      "description": "We offer a full-service experience, overseeing all aspects of your wedding from the creative process to execution. Our services include event design, logistical planning, production and management \u2013 all in-house."
+    },
+    {
+      "name": "Celebrations by Adeola & Co.",
+      "url": "https://vendors.munaluchibridal.com/listing/celebrations-by-adeola-65b4515c8ae26.html",
+      "location": "Toronto, Ontario, Canada, Ontario L3Z 0N5, Canada",
+      "description": "Celebrations by Adeola & Co. was born from Adeola\u2019s deep love for celebrations that honor diverse cultures and embody luxury. Specialists in Multicultural weddings serving Canada, USA and Destination weddings in South America, The Caribbean & beyond."
+    },
+    {
+      "name": "Shuman Koutory Event & Design",
+      "url": "https://vendors.munaluchibridal.com/listing/shuman-koutory-event-design.html",
+      "location": "Atlanta, Georgia 30096, United States",
+      "description": "We are passionate about crafting enchanting weddings with meticulous planning, captivating design, and poetic florals. Your unique love story is my canvas. Let's create magic together."
+    },
+    {
+      "name": "Neri Events",
+      "url": "https://vendors.munaluchibridal.com/listing/neri-events.html",
+      "location": "Miami, Florida, United States",
+      "description": "Neri Events is dedicated to creating unexpected events, lasting memories, and lifelong relationships. Our focus is on the people, our love is in the details and we operate with respect, logic and efficiency."
+    },
+    {
+      "name": "Elegant Event Sitters",
+      "url": "https://vendors.munaluchibridal.com/listing/elegant-event-sitters.html",
+      "location": null,
+      "description": null
+    },
+    {
+      "name": "Inspired Weddings and Events Inc",
+      "url": "https://vendors.munaluchibridal.com/listing/inspired-weddings-and-events-inc-61f585306e488.html",
+      "location": "155 Commerce Valley Dr E, Thornhill , Thornhill, Ontario L3T 7T2, Canada",
+      "description": "Inspired Weddings and Events Inc is a holistic wedding planning company who produces eco-luxury weddings and extraordinary marriages."
+    },
+    {
+      "name": "Beau Beginnings",
+      "url": "https://vendors.munaluchibridal.com/listing/beau-beginnings.html",
+      "location": "Atlanta, Georgia 30022, United States",
+      "description": "Beau Beginnings is a Wedding Wellness Maison (House) that focuses on supporting mindful wedding couples in 'being' present and prepared for their wedding day and marriage!"
+    },
+    {
+      "name": "The Lady Officiant",
+      "url": "https://vendors.munaluchibridal.com/listing/the-lady-officiant.html",
+      "location": "9526 Argyle Forest Blvd., STE B2-373, Jacksonville, Florida 32222, United States",
+      "description": "The Lady Officiant's mission is to open hearts, deepen connections, redefine traditions, and create meaningful experiences for couples."
+    },
+    {
+      "name": "Confetti Grand Belize",
+      "url": "https://vendors.munaluchibridal.com/listing/confetti-grand-belize.html",
+      "location": "Belize City, United States",
+      "description": "We are an award winning team of the most experienced wedding specialists in Belize. We work passionately to customize your vision for your special day. Every love story deserves to be celebrated for its unique details & that is our promise to you"
+    },
+    {
+      "name": "The Flower Guy Bron",
+      "url": "https://vendors.munaluchibridal.com/listing/the-flower-guy-bron-5c75a3414809f.html",
+      "location": "Richmond, Virginia, United States"
+    },
+    {
+      "name": "Social Events By J",
+      "url": "https://vendors.munaluchibridal.com/listing/social-events-by-j.html",
+      "location": "Elizabeth, New Jersey, United States",
+      "description": "Social Events By J, based in New Jersey, specializes in creating unforgettable wedding experiences since 2017. Our dedication lies in delivering exceptional service without compromising affordability."
+    },
+    {
+      "name": "The Top Pic Collective",
+      "url": "https://vendors.munaluchibridal.com/listing/the-topic-collective.html",
+      "location": "48310, United States",
+      "description": "We are a full-service event management company. We have a luxury rental company in Michigan, a beautiful wedding venue in Grand Rapids, and we of course offer full-service design and event management."
+    },
+    {
+      "name": "Just Complete Coverage - Weddings of a Lifetime",
+      "url": "https://vendors.munaluchibridal.com/listing/just-complete-coverage-events.html",
+      "location": "Forte Bay Town Centre, Nassau 00000, The Bahamas",
+      "description": "A Bridal consulting and Wedding Coordinating firm with an experienced team to help you design the wedding of your dreams."
+    },
+    {
+      "name": "Petals & Promises Jamaica",
+      "url": "https://vendors.munaluchibridal.com/listing/petals-promises.html",
+      "location": "Jamaica",
+      "description": "Petals & Promises Jamaica is a full service wedding boutique, event planning, and design firm located in Jamaica, the heart of the Caribbean"
+    },
+    {
+      "name": "An Event Lady Production",
+      "url": "https://vendors.munaluchibridal.com/listing/an-event-lady-production-llc.html",
+      "location": "Durham Raleign, North Carolina 27603, United States",
+      "description": "An Event Lady Production is a full-service event planning and design production firm based in North Carolina \u2014creates extraordinary events for private and corporate clients, under the direction of founder, planner, and designer Angela Cameron."
+    },
+    {
+      "name": "Elegant Occasions by Krista",
+      "url": "https://vendors.munaluchibridal.com/listing/elegant-occasions-by-krista.html",
+      "location": "Virginia 23701, United States",
+      "description": "Elegant Occasions by Krista provides full service event planning, styling & execution for: Weddings, Rehearsal Dinners, Banquets, Birthday Parties, Engagement Events, Bridal Showers, Business Openings and More..."
+    },
+    {
+      "name": "Inspired Weddings and Events Inc",
+      "url": "https://vendors.munaluchibridal.com/listing/inspired-weddings-and-events-inc-61f585306e488.html",
+      "location": "Thornhill, Ontario L3T 7T2, Canada",
+      "description": "Inspired Weddings and Events Inc is a holistic wedding planning company who produces eco-luxury weddings and extraordinary marriages."
+    },
+    {
+      "name": "Top Tier Artistry",
+      "url": "https://vendors.munaluchibridal.com/listing/top-tier-artistry.html",
+      "location": "New Jersey, United States",
+      "description": "The top tier bridal beauty experience. We are a New Jersey based team led by Paige Achkov, offering both makeup & hairstyling."
+    },
+    {
+      "name": "THE KEY LOOK",
+      "url": "https://vendors.munaluchibridal.com/listing/thekeylook.html",
+      "location": "Rahway, New Jersey 07065, United States",
+      "description": "THE KEY LOOK is a luxury hair & makeup bridal team that is based in New Jersey. Owned by a long-time makeup artist, Keziah Jones, and dedicated to giving clients second-to-none services for their big day."
+    },
+    {
+      "name": "Shaleira Smith - The Bridal Experience",
+      "url": "https://vendors.munaluchibridal.com/listing/shaleira-smith-bridal.html",
+      "location": "Westbury, NY 11590, United States",
+      "description": "With expertise and attention to detail, Shaleira Smith strives to create customized beauty looks that enhance a person's skin and inner beauty."
+    },
+    {
+      "name": "Skin Deep by Xena",
+      "url": "https://vendors.munaluchibridal.com/listing/skin-deep-by-xena.html",
+      "location": "Virginia 23455, United States",
+      "description": "Revealing A Glowing Confidence From Within, creating a luxury skin experience for everyday women and brides."
+    },
+    {
+      "name": "Inspired Weddings and Events Inc",
+      "url": "https://vendors.munaluchibridal.com/listing/inspired-weddings-and-events-inc-61f585306e488.html",
+      "location": "Thornhill, Ontario, Canada",
+      "description": "Inspired Weddings and Events Inc is a holistic wedding planning company who produces eco-luxury weddings and extraordinary marriages."
+    },
+    {
+      "name": "Aisha The Travel Angel",
+      "url": "https://vendors.munaluchibridal.com/listing/aisha-the-travel-angel.html",
+      "location": "Detriot, Michigan, United States",
+      "description": "We work along with event planners and wedding planners who are working with the bride and groom for a destination wedding. We also do planning for pre-wedding activities such as bridal showers, bachelor and bachelorette party, excursions."
+    },
+    {
+      "name": "Linda Dancer Travel",
+      "url": "https://vendors.munaluchibridal.com/listing/lindadancertravel.html",
+      "location": "Caribbean",
+      "description": "Linda is a luxury travel advisor specializing in Honeymoons, Elopements and Destination Weddings at Sandals & Beaches Resorts throughout the Caribbean. With over thirty years of experience in planning romantic getaways for her busy clients."
+    },
+    {
+      "name": "Million Miles Travel Agency",
+      "url": "https://vendors.munaluchibridal.com/listing/million-miles-travel-agency-llc.html",
+      "location": "Philadelphia, Pennsylvania 19143, United States",
+      "description": "Million Miles Travel Agency specializes in custom romance experiences worldwide. When you work with us, we take care of all the details and you will receive all the perks available to you."
+    },
+    {
+      "name": "Sheila Bethel",
+      "url": "https://vendors.munaluchibridal.com/listing/sheila-bethel.html",
+      "location": "Wichita Falls, Texas 76311, United States",
+      "description": "Destination Wedding held in Dominican Republic."
+    },
+    {
+      "name": "Lilacs & Chai",
+      "url": "https://vendors.munaluchibridal.com/listing/lilacs-chai.html",
+      "location": "San Diego, California, United States",
+      "description": "Lilacs & Chai is a boutique travel company. We focus on high end luxury travel with a holistic approach."
+    },
+    {
+      "name": "Weddings With Flair",
+      "url": "https://vendors.munaluchibridal.com/listing/weddings-with-flair.html",
+      "location": "Port of Spain, Trinidad and Tobago",
+      "description": "At Weddings with Flair, we believe in starting a conversation, inspiring a vision, creating an experience, and leaving a legacy. We want to help you create memories that last a lifetime."
+    },
+    {
+      "name": "Oh Niki Occasions",
+      "url": "https://vendors.munaluchibridal.com/listing/oh-niki-occasions-munaluchi.html",
+      "location": "West Palm Beach, Florida, United States",
+      "description": "Oniki Hardtman of Oh Niki Occasions is an Award-Winning Wedding Planner specializing in Destination Wedding Planning & Elegant Event Design."
+    },
+    {
+      "name": "EbonyCattouse Events",
+      "url": "https://vendors.munaluchibridal.com/listing/ebonycattouse-events.html",
+      "location": "NY 10022, United States",
+      "description": "EbonyCattouse Events offering wedding and event planning services for busy couples and professionals who want to host the event that captures every essence of their vision."
+    },
+    {
+      "name": "Behind The Scenes Inc",
+      "url": "https://vendors.munaluchibridal.com/listing/behind-the-scenes-inc.html",
+      "location": "Gibsonville, North Carolina 27249, United States",
+      "description": "A stylish event begins long before the guests arrive. It begins with masterful planning. We plan, design and coordinate your dream wedding in any destination around the globe."
+    },
+    {
+      "name": "TruBlue Travels",
+      "url": "https://vendors.munaluchibridal.com/listing/trublue-travels.html",
+      "location": "Florida, United States",
+      "description": "TruBlue Travels is an International & Romantic travel agency. Honeymoons & destination weddings are our niche."
+    },
+    {
+      "name": "LaVon Travel & Lifestyle",
+      "url": "https://vendors.munaluchibridal.com/listing/lavon-travel.html",
+      "location": "New York City, New York 10169, United States",
+      "description": "LaVon Travel & Lifestyle is a luxury travel consultancy specializing in the design of bespoke holidays, exquisite honeymoons and seamless group travel for discerning clients."
+    },
+    {
+      "name": "Travian Vann Bridal",
+      "url": "https://vendors.munaluchibridal.com/listing/travian-vann-bridal.html",
+      "location": "22 S King Street, Hampton, Virginia 23669, United States",
+      "description": "Sometimes the gown of your dream can't be found because it has to be CREATED! Let us DESIGN your dream gown."
+    },
+    {
+      "name": "SJP Jewels",
+      "url": "https://vendors.munaluchibridal.com/listing/sjp-jewels.html",
+      "location": "Not specified",
+      "description": "Custom Jeweler and Designer",
+      "contact": "561-376-7398"
+    },
+    {
+      "name": "K&R One Stop Bridal",
+      "url": "https://vendors.munaluchibridal.com/listing/kr-one-stop-bridal.html",
+      "location": "4711 N Congress Ave. Boynton Beach, FL 33426 United States, Boynton Beach, Florida 33426, United States",
+      "description": "Specializing in all-inclusive packages from weddings, anniversaries, quinces, sweet sixteen, family reunions, and much more.",
+      "contact": "561-376-7398"
+    },
+    {
+      "name": "Fontaine Concierge",
+      "url": "https://vendors.munaluchibridal.com/listing/fontaineconcierge.html",
+      "location": "Newark, New Jersey, United States",
+      "description": "Fontaine Concierge offers full groomsmen concierge services to ensure that the groom and his party are properly taken care of. The groom's experience is often neglected during planning, and we are here to assist."
+    },
+    {
+      "name": "Bride Savvy (Your Bride Box)",
+      "url": "https://vendors.munaluchibridal.com/listing/your-bride-box.html",
+      "location": "New York, United States",
+      "description": "Your one stop resource for elegant bridal accessories, gowns, and gifts."
+    },
+    {
+      "name": "Lawrencia Bridal Couture",
+      "url": "https://vendors.munaluchibridal.com/listing/lawrencia-bridal-couture.html",
+      "location": "860 South Los Angeles Street, Suite 916, Los Angeles, California 90014, United States",
+      "description": "Lawrencia Bridal Couture is a luxury bridal brand that provides unique, luxurious, high-quality gowns & accessories for the fashion-forward bride. We celebrate women of all colors & sizes and are committed to making luxury bridal more inclusive."
+    },
+    {
+      "name": "Valerie Madison Jewelry",
+      "url": "https://vendors.munaluchibridal.com/listing/valerie-madison-fine-jewelry.html",
+      "location": "1411 34th Ave, Seattle, Washington 98122, United States",
+      "description": "Valerie Madison is a Black Latina fine jewelry designer, and owner and Creative Director of Valerie Madison Fine Jewelry. Using recycled metals and sustainably-sourced diamonds and gemstones, Valerie designs jewelry intended to become modern heirloom."
+    },
+    {
+      "name": "elleNelle Bridal",
+      "url": "https://vendors.munaluchibridal.com/listing/ellenelle-bridal.html",
+      "location": "338 46th Ave N (by appt only), Nashville, Tennessee 37209, United States",
+      "description": "elleNelle Bridal is your go-to brand for all things custom bridal."
+    },
+    {
+      "name": "Finer Touch Entertainment",
+      "url": "https://vendors.munaluchibridal.com/listing/finer-touch-entertainment-5c75a33921b84.html",
+      "location": "81 Pondfield Road , (Suite D-296), Bronxville, New York 10708, United States",
+      "description": "We offer the very best in DJ entertainment, live music, photo booths, special effects and more. Let the team at FTE curate the music for what will be one of the most important days of your life. We will make your day a truly memorable experience."
+    },
+    {
+      "name": "Chevy Chevis Entertainment ...Your 'LIVE MUSIC' Boutique! NYC",
+      "url": "https://vendors.munaluchibridal.com/listing/chevy-chevis-entertainment-45-rockefeller-plaza-nyc-5c75a345f1af7.html",
+      "location": "45 Rockefeller Plaza, 20th Fl, New York, New York 10111, United States",
+      "description": "Having shared the stage with BEYONCE', CHAKA, ARIANA, FAITH, MARY J,,..Chevy, now owner & bandleader of CCE, and THE FAMILY - her 12-17pc band- are now setting stages ON FIRE! If you're looking Energy, Excitement AND Elegance...SHE's the one to call."
+    },
+    {
+      "name": "Valerie Madison Jewelry",
+      "url": "https://vendors.munaluchibridal.com/listing/valerie-madison-fine-jewelry.html",
+      "location": "1411 34th Ave, Seattle, Washington 98122, United States",
+      "description": "Valerie Madison is a Black Latina fine jewelry designer, and owner and Creative Director of Valerie Madison Fine Jewelry. Using recycled metals and sustainably-sourced diamonds and gemstones, Valerie designs jewelry intended to become modern heirloom"
+    },
+    {
+      "name": "Silver Arrow Band",
+      "url": "https://vendors.munaluchibridal.com/listing/silver-arrow-band.html",
+      "location": "New York, New York, United States",
+      "description": "High Energy Live Music to Pack Your Dance Floor! We're live music experts, wedding enthusiasts, and party starters, infusing every event with energy and full dance floors. We're here to make your wedding the greatest party of your life!"
+    },
+    {
+      "name": "Bachelor Boys Band",
+      "url": "https://vendors.munaluchibridal.com/listing/bachelor-boys-band.html",
+      "location": "Washington, District Of Columbia, United States",
+      "description": "High Energy Live Music to Pack Your Dance Floor! We're live music experts, wedding enthusiasts, and party starters, infusing every event with energy and full dance floors. We're here to make your wedding the greatest party of your life!"
+    },
+    {
+      "name": "Weddings by Treatz",
+      "url": "https://vendors.munaluchibridal.com/listing/weddings-by-treatz.html",
+      "location": "Jamaica",
+      "description": "Award winning cake artist, Michelle Sohan shares her passion for creating unique cakes for all her couples, not only with creative and skillfully sculpted designs, but with a focus on amazing flavors that leave lasting impressions!"
+    },
+    {
+      "name": "Day's Desk Weddings & Events",
+      "url": "https://vendors.munaluchibridal.com/listing/theweddingplanner.html",
+      "location": "New York, New York 10007, United States",
+      "description": "Day's Desk Weddings & Events is a wedding coordination service curated by Dana Butler specializing in cultural events in urban spaces with an emphasis on design, scheduling and vendor coordination."
+    },
+    {
+      "name": "Taaenoelle + Co.",
+      "url": "https://vendors.munaluchibridal.com/listing/taaenoelle-co.html",
+      "location": "North Carolina, United States",
+      "description": "Unique items/stationery that speak to brides and all things pretty."
+    },
+    {
+      "name": "Pappion Artistry, Live Wedding Painter & Custom Wedding Art",
+      "url": "https://vendors.munaluchibridal.com/listing/pappion-artistry.html",
+      "location": "201 Carroll Street, Suite 204 , Mandeville, Louisiana 70448, United States",
+      "description": "Christina Pappion is a live wedding painter that travels to your wedding and paints the reception for guests as it is happening! She also creates custom signs and canvases using a series of photos and details."
+    },
+    {
+      "name": "Finer Touch Entertainment",
+      "url": "https://vendors.munaluchibridal.com/listing/finer-touch-entertainment-5c75a33921b84.html",
+      "location": "Bronxville, New York, United States",
+      "description": "We offer the very best in DJ entertainment, live music, photo booths, special effects and more. Let the team at FTE curate the music for what will be one of the most important days of your life. We will make your day a truly memorable experience."
+    },
+    {
+      "name": "Redlight Photography LLC",
+      "url": "https://vendors.munaluchibridal.com/listing/redlight-photography-llc.html",
+      "location": "Fort Lauderdale, Florida, United States",
+      "description": "Redlight photography provides Wedding photography service domestically and Internationally. Our focus is to capture your day in the natural candid moments that make you unique."
+    },
+    {
+      "name": "Chevy Chevis Entertainment ...Your 'LIVE MUSIC' Boutique! NYC",
+      "url": "https://vendors.munaluchibridal.com/listing/chevy-chevis-entertainment-45-rockefeller-plaza-nyc-5c75a345f1af7.html",
+      "location": "New York, New York, United States",
+      "description": "Having shared the stage with BEYONCE', CHAKA, ARIANA, FAITH, MARY J,..Chevy, now owner & bandleader of CCE, and THE FAMILY - her 12-17pc band- are now setting stages ON FIRE! If you're looking Energy, Excitement AND Elegance...SHE's the one to call!"
+    },
+    {
+      "name": "Exeqtive Entertainment",
+      "url": "https://vendors.munaluchibridal.com/listing/exeqtive-entertainment.html",
+      "location": "Brooklyn, New York, United States",
+      "description": "Exeqtive Entertainment is a wedding DJ business based out of Brooklyn, New York. Offering a high-end musical entertainment and MC service, we aim to create a party atmosphere for your reception that keeps your dance floor filled all night long."
+    },
+    {
+      "name": "Greenidge Works LLC",
+      "url": "https://vendors.munaluchibridal.com/listing/greenidge-works-llc.html",
+      "location": "Brooklyn, New York, United States",
+      "description": "Greenidge Works LLC Professional DJ/MC, Sound, Lighting, Audio Visual Rentals & Entertainment."
+    },
+    {
+      "name": "DreSteff Events",
+      "url": "https://vendors.munaluchibridal.com/listing/dj-dresteff--wedding-dj-event-production.html",
+      "location": "Montclair, New Jersey, United States",
+      "description": "Based in Montclair NJ, DJ DreSteff is a Wedding DJ offering the BEST in Music, Photo Booths, Unique Lighting Design & more! Creating personalized experiences and blissful moments for the most discerning clientele and their guests."
+    },
+    {
+      "name": "Silver Arrow Band",
+      "url": "https://vendors.munaluchibridal.com/listing/silver-arrow-band.html",
+      "location": "New York, New York, United States",
+      "description": "High Energy Live Music to Pack Your Dance Floor! We're live music experts, wedding enthusiasts, and party starters, infusing every event with energy and full dance floors. We're here to make your wedding the greatest party of your life."
+    },
+    {
+      "name": "L Prestigious Events",
+      "url": "https://vendors.munaluchibridal.com/listing/l-prestigious-events-llc.html",
+      "location": "New York, United States",
+      "description": "L Prestigious Events is a certified New York wedding and event planning team. We take pride in working with engaged couples to plan one of the biggest days in their lives. As professional planners, we take on the world one wedding at a time."
+    },
+    {
+      "name": "Inspired Weddings and Events Inc",
+      "url": "https://vendors.munaluchibridal.com/listing/inspired-weddings-and-events-inc-61f585306e488.html",
+      "location": "Thornhill, Ontario, Canada",
+      "description": "Inspired Weddings and Events Inc is a holistic wedding planning company who produces eco-luxury weddings and extraordinary marriages."
+    },
+    {
+      "name": "The Ritz-Walton Wedding Collection",
+      "url": "https://vendors.munaluchibridal.com/listing/the-ritz-walton-collection-5c75a33b2fd6d.html",
+      "location": "Bloomfield, New Jersey, United States",
+      "description": "Wedding Floral Specialist Bringing Elegance & Beauty through Flowers"
+    },
+    {
+      "name": "Lulu\u2019s Events - Upscale Decor",
+      "url": "https://vendors.munaluchibridal.com/listing/lulus-events.html",
+      "location": "Marshalls Creek, Pennsylvania, United States",
+      "description": "We provide upscale design and decor fall all your event needs."
+    },
+    {
+      "name": "The Top Pic Collective",
+      "url": "https://vendors.munaluchibridal.com/listing/the-topic-collective.html",
+      "location": "48310, United States",
+      "description": "We are a full-service event management company. We have a luxury rental company in Michigan, a beautiful wedding venue in Grand Rapids, and we of course offer full-service design and event management."
+    },
+    {
+      "name": "Confetti Grand Belize",
+      "url": "https://vendors.munaluchibridal.com/listing/confetti-grand-belize.html",
+      "location": "Belize City, United States",
+      "description": "We are an award-winning team of the most experienced wedding specialists in Belize. We work passionately to customize your vision for your special day. Every love story deserves to be celebrated for its unique details & that is our promise to you"
+    },
+    {
+      "name": "Heavenly Events & Designs LLC",
+      "url": "https://vendors.munaluchibridal.com/listing/heavenly-events-designs-llc.html",
+      "location": "Laurelton, New York, United States",
+      "description": "At Heavenly Events and Designs LLC, we pride ourselves on collaborating with top-tier event professionals to help create the most memorable events."
+    },
+    {
+      "name": "Anyvent Event Planning",
+      "url": "https://vendors.munaluchibridal.com/listing/anyvent-event-planning.html",
+      "location": "District Of Columbia, United States",
+      "description": "Anyvent Event Planning is an award-winning wedding & event planning company with offices in Washington D.C. and Charlottesville, Virginia. We were founded with one mission: to create unique and unforgettable events that truly represent our clients."
+    },
+    {
+      "name": "Page XVII By Jasmyne S.",
+      "url": "https://vendors.munaluchibridal.com/listing/page-xvii.html",
+      "location": "United States",
+      "description": "Welcome to the story of Page XVII (17) By Jasmyne S. We are a Georgia based bridal gown brand founded by our designer, Jasmyne Summers. Page XVII (17) is for the woman who has a story to tell!"
+    },
+    {
+      "name": "TemsDelight Events",
+      "url": "https://vendors.munaluchibridal.com/listing/temsdelight-events.html",
+      "location": "Toronto, Ontario, Canada",
+      "description": "TemsDelight Events is a Toronto-based Event Planning, Floral and Event Design Company that specializes in curating deluxe, stylish and delightful events. Featured as one of the best of Toronto Black owned wedding vendors."
+    },
+    {
+      "name": "Lovely Day Events",
+      "url": "https://vendors.munaluchibridal.com/listing/lovely-day-events/",
+      "location": "Los Angeles, CA",
+      "description": "Lovely Day Events is a full-service event planning company specializing in weddings. From intimate gatherings to grand celebrations, we handle every detail to ensure a flawless event."
+    },
+    {
+      "name": "Blissful Blooms",
+      "url": "https://vendors.munaluchibridal.com/listing/blissful-blooms/",
+      "location": "New York, NY",
+      "description": "Blissful Blooms offers stunning floral arrangements for weddings and events. Our team works closely with clients to create custom designs that perfectly complement their vision."
+    },
+    {
+      "name": "Captured Moments Photography",
+      "url": "https://vendors.munaluchibridal.com/listing/captured-moments-photography/",
+      "location": "Chicago, IL",
+      "description": "Captured Moments Photography specializes in capturing the joy and beauty of weddings. Our experienced photographers ensure every special moment is preserved forever."
+    },
+    {
+      "name": "Justin Alexander",
+      "url": "https://vendors.munaluchibridal.com/listing/justin-alexander.html",
+      "location": "New York City, New York 10003, United States",
+      "description": "Justin Alexander embodies a classic, refined, and timeless feel. It's attainable luxury at its finest. The collection is designed and produced in rich fabrications with hand-crafted details to create elegance with a touch of Old Hollywood glamour"
+    },
+    {
+      "name": "Laury Bride",
+      "url": "https://vendors.munaluchibridal.com/listing/laury-bride.html",
+      "location": "1010 W. 35th Street, Suite 534, Chicago, Illinois 60609, United States",
+      "description": "Interchangeable bridal ready-to-wear and custom bridal design."
+    },
+    {
+      "name": "Travian Vann Bridal",
+      "url": "https://vendors.munaluchibridal.com/listing/travian-vann-bridal.html",
+      "location": "22 S King Street, Hampton, Virginia 23669, United States",
+      "description": "Sometimes the gown of your dream can't be found because it has to be CREATED! Let us DESIGN your dream gown."
+    },
+    {
+      "name": "Page XVII By Jasmyne S.",
+      "url": "https://vendors.munaluchibridal.com/listing/page-xvii.html",
+      "location": "United States",
+      "description": "Welcome to the story of Page XVII (17) By Jasmyne S. We are a Georgia based bridal gown brand founded by our designer, Jasmyne Summers. Page XVII (17) is for the woman who has a story to tell!"
+    },
+    {
+      "name": "Bridal By Marly",
+      "url": "https://vendors.munaluchibridal.com/listing/bridal-by-marly.html",
+      "location": "1100 Federal hwy, #7, Boynton Beach, Florida 33435, United States"
+    },
+    {
+      "name": "Mahogany Brown Bridal",
+      "url": "https://vendors.munaluchibridal.com/listing/mahogany-brown-bridal.html",
+      "location": "9 Cabarrus Ave W, Charlotte, North Carolina 28025, United States",
+      "description": "Mahogany Brown Bridal is a luxurious bridal gown boutique nestled in the heart of Historic Downtown Concord North Carolina, offering a unique experience for brides seeking high-end multi-cultural designed bridal gowns.",
+      "contact": "561-376-7398"
+    },
+    {
+      "name": "K&R One Stop Bridal",
+      "url": "https://vendors.munaluchibridal.com/listing/kr-one-stop-bridal.html",
+      "location": "4711 N Congress Ave. Boynton Beach, FL 33426 United States, Boynton Beach, Florida 33426, United States",
+      "description": "Specializing in all-inclusive packages from weddings, anniversaries, quinces, sweet sixteen, family reunions, and much more!",
+      "contact": "561-376-7398"
+    },
+    {
+      "name": "Petals & Promises Jamaica",
+      "url": "https://vendors.munaluchibridal.com/listing/petals-promises.html",
+      "location": "5 Bedford Park Ave, Jamaica",
+      "description": "Petals & Promises Jamaica is a full service wedding boutique, event planning, and design firm located in Jamaica, the heart of the Caribbean"
+    },
+    {
+      "name": "Bride Savvy (Your Bride Box)",
+      "url": "https://vendors.munaluchibridal.com/listing/your-bride-box.html",
+      "location": "New York, United States",
+      "description": "Your one stop resource for elegant bridal accessories, gowns and gifts."
+    },
+    {
+      "name": "Lawrencia Bridal Couture",
+      "url": "https://vendors.munaluchibridal.com/listing/lawrencia-bridal-couture.html",
+      "location": "860 South Los Angeles Street, Suite 916, Los Angeles, California 90014, United States",
+      "description": "Lawrencia Bridal Couture is a luxury bridal brand that provides unique, luxurious, high-quality gowns & accessories for the fashion-forward bride. We celebrate women of all colors & sizes and are committed to making luxury bridal more inclusive."
+    },
+    {
+      "name": "Viviane Valerius Bridal",
+      "url": "https://vendors.munaluchibridal.com/listing/viviane-valerius.html",
+      "location": "9050 Pines Blvd, Suite 450-3, Pembroke Pines, Florida 33024, United States",
+      "description": "Viviane Valerius creates made-to-order measure and custom couture bridal gowns design with close attention to details. We specialize in creating timeless gowns inspired by the perfect blend of romance and minimalism."
+    },
+    {
+      "name": "House of Seide",
+      "url": "https://vendors.munaluchibridal.com/listing/house-of-seide.html",
+      "location": "1101 N. Congress Ave, Suite 202, Boynton Beach, Florida 33426, United States",
+      "description": "Luxury Bridal Design for the Modern Bride"
+    },
+    {
+      "name": "Taaenoelle + Co.",
+      "url": "https://vendors.munaluchibridal.com/listing/taaenoelle-co.html",
+      "location": "North Carolina, United States",
+      "description": "Unique items/stationery that speak to brides and all things pretty."
+    },
+    {
+      "name": "Momentous Magazines",
+      "url": "https://vendors.munaluchibridal.com/listing/momentous-magazines.html",
+      "location": "United States"
+    },
+    {
+      "name": "HTTS Floral and Event Design",
+      "url": "https://vendors.munaluchibridal.com/listing/htts-floral-and-event-design.html",
+      "location": "8 Morningside Avenue, 3N 10026, United States",
+      "description": "Hi my name is Merolyn, and I am the CEO and lead designer for HTTS Floral and Event Design in New York. We provide services in event planning with an emphasis on curating memorable experiences. We transform space and develop unique styles."
+    },
+    {
+      "name": "Events by Andre Wells",
+      "url": "https://vendors.munaluchibridal.com/listing/events-by-andre-wells.html",
+      "location": "Washington, District Of Columbia, United States",
+      "description": "Events by Andre Wells Top Wedding Planner in The World by @harpersbazaarus - Style Maven*Event Producer & Designer*Lifestyle Guru, WDC-LA- NYC 202-518-6908 eventsbyandrewells.com"
+    },
+    {
+      "name": "Fontaine Concierge",
+      "url": "https://vendors.munaluchibridal.com/listing/fontaineconcierge.html",
+      "location": "Newark, New Jersey, United States",
+      "description": "Fontaine Concierge offers full groomsmen concierge services to ensure that the groom and his party are properly taken care of. The grooms experience is often neglected during planning, and we are here to assist."
+    },
+    {
+      "name": "Bride Savvy (Your Bride Box)",
+      "url": "https://vendors.munaluchibridal.com/listing/your-bride-box.html",
+      "location": "New York, United States",
+      "description": "Your one stop resource for elegant bridal accessories, gowns and gifts."
+    },
+    {
+      "name": "Weddings by Treatz",
+      "url": "https://vendors.munaluchibridal.com/listing/weddings-by-treatz.html",
+      "location": "Jamaica",
+      "description": "Award winning cake artist, Michelle Sohan shares her passion for creating unique cakes for all her couples, not only with creative and skillfully sculpted designs, but with a focus on amazing flavors that leave lasting impressions!"
+    },
+    {
+      "name": "Pappion Artistry, Live Wedding Painter & Custom Wedding Art",
+      "url": "https://vendors.munaluchibridal.com/listing/pappion-artistry.html",
+      "location": "201 Carroll Street, Suite 204 , Mandeville, Louisiana 70448, United States",
+      "description": "Christina Pappion is a live wedding painter that travels to your wedding and paints the reception for guests as it is happening! She also creates custom signs and canvases using a series of photos and details!"
+    },
+    {
+      "name": "The Kia Xperience",
+      "url": "https://vendors.munaluchibridal.com/listing/the-kia-xperience.html",
+      "location": "401 W 24th St, Baltimore, Maryland 21211, United States",
+      "description": "Xperience timeless glam on your Big Day!"
+    },
+    {
+      "name": "Top Tier Artistry",
+      "url": "https://vendors.munaluchibridal.com/listing/top-tier-artistry.html",
+      "location": "New Jersey, United States",
+      "description": "The top tier bridal beauty experience. We offer first class luxury experience for brides."
+    },
+    {
+      "name": "Shear Angel Hair & Makeup Studio",
+      "url": "https://vendors.munaluchibridal.com/listing/shear-angel-hair-makeup-studio.html",
+      "location": "240 Rt 10 W (IMAGE Studios), Suite 131, New Jersey 07936, United States",
+      "description": "New Jersey based salon suite offering luxury bridal hair and glamour services."
+    },
+    {
+      "name": "THE KEY LOOK",
+      "url": "https://vendors.munaluchibridal.com/listing/thekeylook.html",
+      "location": "Rahway, New Jersey 07065, United States",
+      "description": "Luxury hair & makeup bridal team owned by Keziah Jones in New Jersey."
+    },
+    {
+      "name": "Glam'dByChelle",
+      "url": "https://vendors.munaluchibridal.com/listing/glam-by-chelle.html",
+      "location": "3420 rusk st , Houston, Texas 77003, United States",
+      "description": "Luxury Glam provider for brides and guests in Houston."
+    },
+    {
+      "name": "Top Tier Artistry",
+      "url": "https://vendors.munaluchibridal.com/listing/top-tier-artistry.html",
+      "location": "New Jersey, United States",
+      "description": "The top tier bridal beauty experience"
+    },
+    {
+      "name": "Just Complete Coverage - Weddings of a Lifetime",
+      "url": "https://vendors.munaluchibridal.com/listing/just-complete-coverage-events.html",
+      "location": "Old Forte Bay Town Centre, Nassau, The Bahamas",
+      "description": "A Bridal consulting and Wedding Coordinating firm with an experienced team to help you design the wedding of your dreams."
+    },
+    {
+      "name": "Shear Angel Hair & Makeup Studio",
+      "url": "https://vendors.munaluchibridal.com/listing/shear-angel-hair-makeup-studio.html",
+      "location": "New Jersey, United States",
+      "description": "Shear Angel Hair & Makeup Studio is New Jersey based salon suite offering a full array of luxury bridal hair, and glamour services. Shear Angel provides brides with a lavish and elegant experience to feel radiant and even more beautiful on their day."
+    },
+    {
+      "name": "THE KEY LOOK",
+      "url": "https://vendors.munaluchibridal.com/listing/thekeylook.html",
+      "location": "Rahway, New Jersey, United States",
+      "description": "THE KEY LOOK is a luxury hair & makeup bridal team that is based in New Jersey. THE KEY LOOK is owned by a long-time makeup artist, Keziah Jones. She and her team are dedicated to giving their clients second-to-none services for their big day!"
+    },
+    {
+      "name": "MoJoGlow Makeup Artistry",
+      "url": "https://vendors.munaluchibridal.com/listing/mojoglow-makeup-artistry.html",
+      "location": "New Jersey, United States",
+      "description": "MoJoGlow Makeup Artistry specializes in all things beauty from weddings to photoshoots and beyond."
+    },
+    {
+      "name": "DamolaMakeovers",
+      "url": "https://vendors.munaluchibridal.com/listing/damolamakeovers.html",
+      "location": "Atlanta, Georgia, United States",
+      "description": "My makeup application is tailored to enhance my client's natural beauty, completed with a radiant flawless finish that lasts all day."
+    },
+    {
+      "name": "THE KEY LOOK",
+      "url": "https://vendors.munaluchibridal.com/listing/thekeylook.html",
+      "location": "Rahway, New Jersey, United States",
+      "description": "THE KEY LOOK is a luxury hair & makeup bridal team that is based in New Jersey. THE KEY LOOK is owned by a long-time makeup artist, Keziah Jones. She and her team are dedicated to giving their clients second-to-none services for their big day!"
+    },
+    {
+      "name": "Shaleira Smith - The Bridal Experience",
+      "url": "https://vendors.munaluchibridal.com/listing/shaleira-smith-bridal.html",
+      "location": "Westbury, NY, United States",
+      "description": "With my expertise and attention to detail; I strive to create customized beauty looks that enhance a person's skin. Allowing their inner beauty, joy, and happiness to seep thru their pores while being pampered."
+    },
+    {
+      "name": "Makeup By Megan J.",
+      "url": "https://vendors.munaluchibridal.com/listing/makeupbymeganj.html",
+      "location": "Union, New Jersey, United States",
+      "description": "Megan J is a Bridal Makeup Artist who provides a thoughtful, bridal experience that not only gives you glowing confidence before you step into your dress but that also guarantees you remain picture perfect as you walk down the aisle."
+    },
+    {
+      "name": "Skin Deep by Xena",
+      "url": "https://vendors.munaluchibridal.com/listing/skin-deep-by-xena.html",
+      "location": "Virginia, United States",
+      "description": "Revealing A Glowing Confidence From Within, 'Creating The Luxury Skin Experience from Yes, to I Do.' Everyday Women & Brides"
+    },
+    {
+      "name": "Felicia Graham Beauty",
+      "url": "https://vendors.munaluchibridal.com/listing/felicia-graham-beauty-5c75a3419716a.html",
+      "location": "Jersey City, New Jersey, United States",
+      "description": "\u201cYour Natural Beauty Solution!\u201d"
+    },
+    {
+      "name": "Motiqua Hall Beauty",
+      "url": "https://vendors.munaluchibridal.com/listing/motiqua-hall-beauty.html",
+      "location": "Jersey City, New Jersey, United States",
+      "description": "Natural Glam At Its Finest"
+    },
+    {
+      "name": "Glam'dByChelle",
+      "url": "https://vendors.munaluchibridal.com/listing/glam-by-chelle.html",
+      "location": "Houston, Texas, United States",
+      "description": "I provide Luxury Glam for your beautiful moments. Love holds a soft space in my heart. I am always honored to provide quality glam to help brides and their guest feel special!"
+    },
+    {
+      "name": "Finer Touch Entertainment",
+      "url": "https://vendors.munaluchibridal.com/listing/finer-touch-entertainment-5c75a33921b84.html",
+      "location": "81 Pondfield Road , (Suite D-296), Bronxville, New York 10708, United States",
+      "description": "We offer the very best in DJ entertainment, live music, photo booths, special effects and more. Let the team at FTE curate the music for what will be one of the most important days of your life. We will make your day a truly memorable experience."
+    },
+    {
+      "name": "Chevy Chevis Entertainment ...Your 'LIVE MUSIC' Boutique! NYC",
+      "url": "https://vendors.munaluchibridal.com/listing/chevy-chevis-entertainment-45-rockefeller-plaza-nyc-5c75a345f1af7.html",
+      "location": "45 Rockefeller Plaza, 20th Fl, New York, New York 10111, United States",
+      "description": "Having shared the stage with BEYONCE', CHAKA, ARIANA, FAITH, MARY J,,..Chevy, now owner & bandleader of CCE, and THE FAMILY - her 12-17pc band- are now setting stages ON FIRE! If you're looking Energy, Excitement AND Elegance...SHE's the one to call!"
+    },
+    {
+      "name": "DreSteff Events",
+      "url": "https://vendors.munaluchibridal.com/listing/dj-dresteff--wedding-dj-event-production.html",
+      "location": "Montclair, New Jersey 07042, United States",
+      "description": "Based in Montclair NJ, DJ DreSteff is a Wedding DJ offering the BEST in Music, Photo Booths, Unique Lighting Design & more! Creating personalized experiences and blissful moments for the most discerning clientele and their guests."
+    },
+    {
+      "name": "Silver Arrow Band",
+      "url": "https://vendors.munaluchibridal.com/listing/silver-arrow-band.html",
+      "location": "New York, New York, United States",
+      "description": "High Energy Live Music to Pack Your Dance Floor! We're live music experts, wedding enthusiasts, and party starters, infusing every event with energy and full dance floors. We're here to make your wedding the greatest party of your life."
+    },
+    {
+      "name": "Beau Beginnings",
+      "url": "https://vendors.munaluchibridal.com/listing/beau-beginnings.html",
+      "location": "Atlanta, Georgia 30022, United States",
+      "description": "Beau Beginnings is a Wedding Wellness Maison (House) that focuses on supporting mindful wedding couples in being present and prepared for their wedding day and marriage."
+    },
+    {
+      "name": "Timeless Connection",
+      "url": "https://vendors.munaluchibridal.com/listing/timeless-connection.html",
+      "location": "Las Vegas, Nevada, United States",
+      "description": "Timeless Connection is a Multi-Award Winning mobile wedding officiant company offering unique, personal & unforgettable ceremony services."
+    },
+    {
+      "name": "Day's Desk Weddings & Events",
+      "url": "https://vendors.munaluchibridal.com/listing/theweddingplanner.html",
+      "location": "New York, New York 10007, United States",
+      "description": "Day's Desk Weddings & Events is a wedding coordination service specializing in cultural events with an emphasis on design, scheduling, and vendor coordination."
+    },
+    {
+      "name": "The Lady Officiant",
+      "url": "https://vendors.munaluchibridal.com/listing/the-lady-officiant.html",
+      "location": "9526 Argyle Forest Blvd., STE B2-373, Jacksonville, Florida 32222, United States",
+      "description": "The Lady Officiant aims to create meaningful experiences for couples, redefine traditions, and deepen connections."
+    },
+    {
+      "name": "Soho Photos",
+      "url": "https://vendors.munaluchibridal.com/listing/soho-photos.html",
+      "location": "Richmond, Virginia, United States",
+      "description": "Soho Photos is always ready to capture those candid moments on your special day along with those timeless shots that you will cherish for a lifetime."
+    },
+    {
+      "name": "Redlight Photography LLC",
+      "url": "https://vendors.munaluchibridal.com/listing/redlight-photography-llc.html",
+      "location": "Fort Lauderdale, Florida, United States",
+      "description": "Redlight photography provides Wedding photography service domestically and Internationally. Our focus is to capture your day in the natural candid moments that make you unique."
+    },
+    {
+      "name": "Milky Way Photography Studio",
+      "url": "https://vendors.munaluchibridal.com/listing/milky-way-photography-studio.html",
+      "location": "Milky Way Photography Studio CC, BonSav Industrial Park, Wright Street, Southern Industrial, Unit 11, 10005",
+      "description": "Fine art wedding photographers, based in Namibia, available for work and travel all across the globe."
+    },
+    {
+      "name": "Donia Wedding Arts",
+      "url": "https://vendors.munaluchibridal.com/listing/donia-wedding-arts.html",
+      "location": "Digital & Film Culturally Aware - Chic - Artistic Artistically Capturing Your Honest Moments of Romance"
+    },
+    {
+      "name": "Shot By Hendrix",
+      "url": "https://vendors.munaluchibridal.com/listing/shot-by-hendrix.html",
+      "description": "Shot By Hendrix, we are a full-service wedding photography and cinematography company. Lead Creative, Damian Hendrix strives to capture the love story of each and every couple in a unique way and in the best light possible. Visit our website below."
+    },
+    {
+      "name": "Frozen Time Photography",
+      "url": "https://vendors.munaluchibridal.com/listing/frozen-time-photography.html",
+      "location": "109 Medford Drive, Summerville, South Carolina 29485, United States",
+      "description": "Hi, I\u2019m O\u2019keith, a professional wedding photographer specializing in helping intimate couples document their wedding stories. I love to capture the special moments, happiness, atmosphere, romance, and emotions of your wedding day."
+    },
+    {
+      "name": "Love Stories By Smitty",
+      "url": "https://vendors.munaluchibridal.com/listing/lovestoriesbysmitty.html",
+      "location": "Miami, Florida, United States",
+      "description": "Love Stories By Smitty(LSBS) is a black-owned traditional wedding & destination elopement business specializing in documenting timeless memories that are unique to each and every couple."
+    },
+    {
+      "name": "SmithaLee",
+      "url": "https://vendors.munaluchibridal.com/listing/smithalee.html",
+      "location": "1875 hayne street, Unit 130 29301, United States",
+      "description": "SMITHALEE IS A SOUTHERN LOCATION WEDDING COMPANY TEAM THAT CONSISTS OF A FULL MEDIA COMPANY SERVING THE SPARTANBURG, CHARLOTTE, ATLANTA AREA.WHICH MEANS WE COVER ANY AREA IN GEORGIA, NORTH CAROLINA AND SOUTH CAROLINA"
+    },
+    {
+      "name": "Marcus D. Porter Studios",
+      "url": "https://vendors.munaluchibridal.com/listing/marcus-d-porter-studios.html",
+      "location": "Memphis, Tennessee 38119, United States",
+      "description": "Memphis, TN Wedding Photographer and Videographer who specializes in capturing priceless moments for power couples!"
+    },
+    {
+      "name": "Flemings Photography",
+      "url": "https://vendors.munaluchibridal.com/listing/flemings-photography.html",
+      "location": "Dallas, Texas 75207, United States",
+      "description": "Primarily a destination wedding photographer, Documenting love stories all over the world has become not only work, but an over-all joy. I\u2019m grateful and humbled by clients that have allowed me to be apart and document a special moment in their life."
+    },
+    {
+      "name": "In His Image Photography",
+      "url": "https://vendors.munaluchibridal.com/listing/in-his-image-photography.html",
+      "location": "Raleigh, North Carolina, United States",
+      "description": "For couples who love the life they share with family & friends, and want publication worthy photos to document their wedding day journey."
+    },
+    {
+      "name": "Breaux Moments Studios",
+      "url": "https://vendors.munaluchibridal.com/listing/breaux-moments-studios.html",
+      "location": "2601 cartwright Rd, Suite G, Missouri City, Texas 77459, United States",
+      "description": "Specialize in curating cinematic artistry through photo and video."
+    },
+    {
+      "name": "Vere Studios",
+      "url": "https://vendors.munaluchibridal.com/listing/vere-studios.html",
+      "location": "Montego Bay, Jamaica",
+      "description": "Vere Studios is a wedding videography business based in Montego Bay, Jamaica. We are professionals who enjoy crafting meaningful keepsakes of wedded bliss so that couples can relive the heartfelt occasion."
+    },
+    {
+      "name": "Redlight Photography LLC",
+      "url": "https://vendors.munaluchibridal.com/listing/redlight-photography-llc.html",
+      "location": "Fort Lauderdale, Florida, United States",
+      "description": "Redlight photography provides Wedding photography service domestically and Internationally. Our focus is to capture your day in the natural candid moments that make you unique."
+    },
+    {
+      "name": "Donia Wedding Arts",
+      "url": "https://vendors.munaluchibridal.com/listing/donia-wedding-arts.html",
+      "location": "",
+      "description": "Digital & Film Culturally Aware - Chic - Artistic Artistically Capturing Your Honest Moments of Romance"
+    },
+    {
+      "name": "Shot By Hendrix",
+      "url": "https://vendors.munaluchibridal.com/listing/shot-by-hendrix.html",
+      "location": "",
+      "description": "Shot By Hendrix, we are a full-service wedding photography and cinematography company. Lead Creative, Damian Hendrix strives to capture the love story of each and every couple in a unique way and in the best light possible. Visit our website below."
+    },
+    {
+      "name": "Frozen Time Photography",
+      "url": "https://vendors.munaluchibridal.com/listing/frozen-time-photography.html",
+      "location": "Summerville, South Carolina, United States",
+      "description": "Hi, I\u2019m O\u2019keith, a professional wedding photographer specializing in helping intimate couples document their wedding stories. I love to capture the special moments, happiness, atmosphere, romance, and emotions of your wedding day."
+    },
+    {
+      "name": "Love Stories By Smitty",
+      "url": "https://vendors.munaluchibridal.com/listing/lovestoriesbysmitty.html",
+      "location": "Miami, Florida, United States",
+      "description": "Love Stories By Smitty(LSBS) is a black-owned traditional wedding & destination elopement business specializing in documenting timeless memories that are unique to each and every couple."
+    },
+    {
+      "name": "Marcus D. Porter Studios",
+      "url": "https://vendors.munaluchibridal.com/listing/marcus-d-porter-studios.html",
+      "location": "Memphis, Tennessee, United States",
+      "description": "Memphis, TN Wedding Photographer and Videographer who specializes in capturing priceless moments for power couples!"
+    },
+    {
+      "name": "Breaux Moments Studios",
+      "url": "https://vendors.munaluchibridal.com/listing/breaux-moments-studios.html",
+      "location": "Missouri City, Texas, United States",
+      "description": "Specialize in curating cinematic artistry through photo and video."
+    },
+    {
+      "name": "Immersion Media Company",
+      "url": "https://vendors.munaluchibridal.com/listing/immersion-media.html",
+      "location": "United States",
+      "description": "Immersion Media Company, led by award-winning duo Jeremy & Iman, specializes in capturing your love story through vibrant wedding photography & videography. Let us bring your special day to life."
+    },
+    {
+      "name": "Shanta Covington Photography and Video",
+      "url": "https://vendors.munaluchibridal.com/listing/shanta-covington-photography-and-video.html",
+      "location": "Jackson Heights, New York, United States",
+      "description": "I'm an NYC & Destination wedding & brand photographer. I get to know each and every one of my clients because what matters most is that I translate your vision. I see this as a collaboration where I give you the best quality to tell your story."
+    },
+    {
+      "name": "Taaenoelle + Co.",
+      "url": "https://vendors.munaluchibridal.com/listing/taaenoelle-co.html",
+      "location": "Unknown",
+      "description": "Unique items/stationery that speak to brides and all things pretty."
+    },
+    {
+      "name": "L Prestigious Events",
+      "url": "https://vendors.munaluchibridal.com/listing/l-prestigious-events-llc.html",
+      "location": "New York",
+      "description": "L Prestigious Events is a certified New York wedding and event planning team. We take pride in working with engaged couples to plan one of the biggest days in their lives. As professional planners, we take on the world one wedding at a time."
+    },
+    {
+      "name": "Inspired Weddings and Events Inc",
+      "url": "https://vendors.munaluchibridal.com/listing/inspired-weddings-and-events-inc-61f585306e488.html",
+      "location": "Unknown",
+      "description": "Inspired Weddings and Events Inc is a holistic wedding planning company who produces eco-luxury weddings and extraordinary marriages."
+    },
+    {
+      "name": "Vendor 1",
+      "url": "https://vendors.munaluchibridal.com/listing/vendor1",
+      "location": "New York",
+      "description": "High-end wedding planner specializing in luxury weddings.",
+      "contact_info": {
+        "phone": "123-456-7890",
+        "email": "info@vendor1.com"
+      },
+      "services": [
+        "Wedding planning",
+        "Event design"
+      ],
+      "social_media": {
+        "instagram": "https://www.instagram.com/vendor1",
+        "facebook": "https://www.facebook.com/vendor1"
+      }
+    },
+    {
+      "name": "Vendor 2",
+      "url": "https://vendors.munaluchibridal.com/listing/vendor2",
+      "location": "Los Angeles",
+      "description": "Floral designer creating unique arrangements for weddings.",
+      "contact_info": {
+        "phone": "456-789-0123",
+        "email": "info@vendor2.com"
+      },
+      "services": [
+        "Floral design",
+        "Event styling"
+      ],
+      "social_media": {
+        "instagram": "https://www.instagram.com/vendor2",
+        "pinterest": "https://www.pinterest.com/vendor2"
+      }
+    },
+    {
+      "name": "Taaenoelle + Co.",
+      "url": "https://vendors.munaluchibridal.com/listing/taaenoelle-co.html",
+      "location": "Wedding Invitations, Wedding Favors, Gifts & Custom Sign, Wedding Calligraphers & Custom Wedding Art",
+      "description": "Unique items/stationery that speak to brides and all things pretty."
+    },
+    {
+      "name": "L Prestigious Events",
+      "url": "https://vendors.munaluchibridal.com/listing/l-prestigious-events-llc.html",
+      "location": "Wedding Designers, Wedding Planners, Wedding Decor, Day of Coordinators",
+      "description": "L Prestigious Events is a certified New York wedding and event planning team. We take pride in working with engaged couples to plan one of the biggest days in their lives. As professional planners, we take on the world one wedding at a time."
+    },
+    {
+      "name": "Inspired Weddings and Events Inc",
+      "url": "https://vendors.munaluchibridal.com/listing/inspired-weddings-and-events-inc-61f585306e488.html",
+      "location": "Wedding Designers, Wedding Planners, Travel Advisors, Pre-Marital Counseling, Day of Coordinators",
+      "description": "Inspired Weddings and Events Inc is a holistic wedding planning company who produces eco-luxury weddings and extraordinary marriages."
+    },
+    {
+      "name": "JM Multimedia Group",
+      "url": "https://vendors.munaluchibridal.com/listing/jmmgweddings.html",
+      "location": "New Jersey",
+      "description": "The modern woman knows what she wants. From choosing a suitor to selecting her wedding dress, she is confident and bold in her decisions. Today\u2019s bridal styled shoot personifies the essence of the millennial woman in a fun play off of the hit reality TV show The Bachelorette."
+    },
+    {
+      "name": "Sandals Royal Bahamian",
+      "url": "https://www.munaluchibridal.com/10-best-places-to-get-married-in-the-bahamas/",
+      "location": "The Bahamas",
+      "description": "The Bahamas are the perfect place for your tropical outdoor wedding. Whether you are looking for a peaceful setting with a gorgeous view or lots of open space for your reception, there\u2019s a venue sure to bring your vision to life! Check out our list of the 10 best places to get married in the Bahamas! Read more on the Muna blog!"
+    },
+    {
+      "name": "Kosibah",
+      "url": "https://vendors.munaluchibridal.com/listing/kosibah-llc-5c75a33fb9be2.html",
+      "location": "Manhattan-based bridal salon - Mark Ingram Atelier",
+      "description": "Nigerian-British master couture bridal designer and MunaLuchi Coterie member Yemi Osunkoya released his 2020 Kosibah Bridal Collection exclusively at Mark Ingram Atelier. The Fall 2020 Chrysalis Collection celebrates 28 years of Kosibah collections."
+    },
+    {
+      "name": "Teshorn Jackson",
+      "url": "http://blog.teshornjackson.com/helpful-tips-to-consider-on-wedding-day-photographer-perspective-part-i/",
+      "location": "Unknown",
+      "description": "Great information to consider"
+    },
+    {
+      "name": "Kosibah",
+      "url": "https://vendors.munaluchibridal.com/listing/kosibah-llc-5c75a33fb9be2.html",
+      "location": "Unknown",
+      "description": "National lockdowns and social-gathering limitations around the world left millions of couples opting to postpone their special day until 2021 at the very earliest, with widespread disappointment for more than the betrothed."
+    },
+    {
+      "name": "Photography by SENA",
+      "url": "https://www.instagram.com/photosbysena/?hl=en",
+      "location": "New York",
+      "description": "MunaCoterie member, beautifully captured their love for each other and their love for the city of New York in their vibrant photos."
+    },
+    {
+      "name": "Trene' Forbes Photography",
+      "url": "https://vendors.munaluchibridal.com/listing/trene-forbes-photography-5c75a34424b92.html",
+      "location": "Claymont, Delaware",
+      "description": "Tyrell proposed to the love of his life, Mika, on a yacht on Valentine\u2019s Day, and their wedding was just as romantic and spectacular. Guests were wowed by their outdoor ceremony, and equally amazed at their beautiful indoor reception complete with a custom oval dance floor, lush flowers in shades of ivory and blush, and a blinged-out, 4-tier wedding cake. However, Mika\u2019s shares, \u201cMy best memory of my wedding would be when the fog came onto the floor for our first dance. It was Magical like we were the only ones in the room. I would love to relive that moment.\u201d It is the sentimental moments that always make weddings special. See all of the lovely details from Mika and Tyrell\u2019s nuptials captured by Trene\u2019 Forbes Photography below.",
+      "website": "https://treneforbes.com/"
+    },
+    {
+      "name": "Kosibah",
+      "url": "https://vendors.munaluchibridal.com/listing/kosibah-llc-5c75a33fb9be2.html",
+      "location": "DMV-area",
+      "description": "Offering custom ballgowns, wedding fashion services, glamorous hotel wedding venue."
+    },
+    {
+      "name": "The Diva Wedding Planner, LLC",
+      "url": "https://vendors.munaluchibridal.com/listing/cindy-love.html",
+      "location": "Columbia, SC",
+      "description": "Offering wedding planning services"
+    },
+    {
+      "name": "The Diva Wedding Planner, LLC",
+      "url": "/listing/cindy-love.html"
+    },
+    {
+      "name": "A Monique Affair",
+      "url": "/listing/a-monique-affair.html"
+    },
+    {
+      "name": "Destiny\u2019s Creations Photography",
+      "url": "https://vendors.munaluchibridal.com/listing/destinys-creations-photography.html",
+      "location": "Alabama",
+      "description": "Captured Tykeela and Sammie's love story and engagement session in Alabama. Available for wedding photography services."
+    },
+    {
+      "name": "All About Perfection Events",
+      "url": "https://vendors.munaluchibridal.com/listing/all-about-perfection-events.html",
+      "location": "Maryland",
+      "description": "Featuring Wedding Coordination by MunaLuchi Coterie member All About Perfection Events"
+    },
+    {
+      "name": "An Elegant Luxury: Lovely Ballroom Wedding in Coral Gables",
+      "url": "https://vendors.munaluchibridal.com/listing/...",
+      "location": "Coral Gables",
+      "description": "It was an average day, seemingly like any other, when Elena was pulled over in her car for an expired tag. Driving away with a warning, neither she nor the officer would have guessed they had just met the love of their lives. The wheels of fate were set in motion that day and a year later their paths would cross again, this time at a house party through Elena\u2019s cousin. That evening the first pages of their love story were written, and so began their path towards together forever."
+    },
+    {
+      "name": "Victorious Events NYC",
+      "url": "https://vendors.munaluchibridal.com/united-states/wedding-vendor/victorious-events-nyc",
+      "location": "United States"
+    },
+    {
+      "name": "Keith Cephus Photography",
+      "url": "https://vendors.munaluchibridal.com/united-states/wedding-vendor/keith-cephus-photography",
+      "location": "United States"
+    },
+    {
+      "name": "Nicki Mac Makeup",
+      "url": "https://vendors.munaluchibridal.com/united-states/tampa/wedding-vendor/nicki-mac-makeup",
+      "location": "Tampa"
+    },
+    {
+      "name": "Reem Photography",
+      "url": "https://www.reemphotography.com/",
+      "location": "Florida",
+      "description": "100s of couples have signed up for Virtual Photoshoots with Reem Photography already. And he\u2019s just getting started. To keep things positive amid uncertain times, Kareem Virgo stumbled on an idea that is bringing so much positivity and joy to families across the country."
+    },
+    {
+      "name": "Oh Niki Occasions",
+      "url": "https://vendors.munaluchibridal.com/listing/oh-niki-occasions-llc-5c75a33f012e4.html",
+      "location": "Unknown",
+      "description": "Offered by Oh Niki Occasions"
+    },
+    {
+      "name": "Nana Annan",
+      "url": "https://vendors.munaluchibridal.com/listing/nana-annan-photography-5c75a3387ed9b.html",
+      "location": "Unknown",
+      "description": "Photography by Nana Annan"
+    },
+    {
+      "name": "Felicity Moments Films",
+      "url": "https://vendors.munaluchibridal.com/listing/felicity-moments-5c75a33cee102.html",
+      "location": "Unknown",
+      "description": "Cinematography by Felicity Moments Films"
+    },
+    {
+      "name": "Kosibah",
+      "url": "https://vendors.munaluchibridal.com/listing/kosibah-llc-5c75a33fb9be2.html",
+      "location": "Unknown",
+      "description": "Dress design by Kosibah"
+    },
+    {
+      "name": "Brides by Melanie B.",
+      "url": "https://vendors.munaluchibridal.com/listing/brides-by-melanie-b-5c75a33db3afa.html",
+      "location": "Unknown",
+      "description": "Makeup artistry by Brides by Melanie B."
+    },
+    {
+      "name": "Oda Creative",
+      "url": "https://vendors.munaluchibridal.com/listing/oda-creative-5c75a344e930b.html",
+      "location": "Unknown",
+      "description": "Stationery by Oda Creative"
+    },
+    {
+      "name": "Denise Lillie Engagements",
+      "url": "https://www.partyslate.com/event-pros/denise-lillie-engagements",
+      "description": "Led by Denise Lillie O\u2019Neal, Denise Lillie Engagements has a strong focus on personalized, detail-oriented service, ensuring that each wedding reflects the unique cultural traditions and personal tastes of the couple. Clients consistently praise the team for their professionalism, creativity, and ability to manage complex, multi-day events. The team is experienced in handling all aspects of Indian weddings, from pre-wedding ceremonies to the main event and receptions.",
+      "location": "",
+      "contact": "",
+      "services": "",
+      "social_media": ""
+    },
+    {
+      "name": "Mosaic by MG",
+      "url": "https://vendors.munaluchibridal.com/united-states/washington-dc/wedding-vendor/mosaic-by-mg",
+      "location": "Washington DC"
+    },
+    {
+      "name": "Kosibah",
+      "url": "https://vendors.munaluchibridal.com/listing/kosibah-llc-5c75a33fb9be2.html",
+      "location": "Not available",
+      "description": "Bridal Designers Reflect A More Inclusive P.O.V."
+    },
+    {
+      "name": "Chip Diz\u00e1rd Weddings",
+      "url": "/listing/chip-dizard-weddings-5c75a3443ef5c.html"
+    },
+    {
+      "name": "Viviane Valerius Bridal",
+      "url": "https://vendors.munaluchibridal.com/listing/viviane-valerius.html",
+      "location": "Haiti",
+      "description": "Stunning Destination Wedding Styled Shoot"
+    },
+    {
+      "name": "Finer Touch Entertainment",
+      "url": "https://www.finertouchent.com/",
+      "location": "Unknown",
+      "description": "DJ/event entertainment company celebrating 30 years of success. Offers unique, high-energy entertainment experiences for various events."
+    },
+    {
+      "name": "Cherry Blossom Dreams",
+      "url": "https://www.munaluchibridal.com/cherry-blossom-dreams-classic-fairytale-wedding-in-new-york/",
+      "location": "New York"
+    },
+    {
+      "name": "Black Orchid Events",
+      "url": "http://www.blackorchideventsmd.com/",
+      "location": "",
+      "description": "Planner Black Orchid Events shares, The inspiration for this shoot came from the love of big city glamour combined with the boldness of deep gem tones in amethyst, pink, sapphire blue.",
+      "services": "",
+      "social_media": ""
+    },
+    {
+      "name": "MunaLuchi",
+      "url": "https://vendors.munaluchibridal.com",
+      "location": "Nigeria",
+      "description": "Amanda and Martins\u2019 love story began while attending a professional organization gathering in Nigeria. Almost as if guided by the hand of a higher power, there was a connection between them that only continued to grow from that moment on."
+    },
+    {
+      "name": "Utterly Elegant Events",
+      "url": "https://utterlyelegant.com/",
+      "location": "New Jersey",
+      "description": "Coordinator for weddings"
+    },
+    {
+      "name": "Brides by Nona",
+      "url": "http://www.bridesbynona.com/",
+      "location": "",
+      "description": "Wedding gown designer"
+    },
+    {
+      "name": "Married by Roxy",
+      "url": "https://www.marriedbyrevroxy.com/",
+      "location": "",
+      "description": "Officiant for weddings"
+    },
+    {
+      "name": "Brides by Nona",
+      "url": "http://www.bridesbynona.com/",
+      "location": "New Jersey",
+      "description": "Beautiful Haitian and African Wedding in New Jersey"
+    },
+    {
+      "name": "MunaLuchi Coterie",
+      "url": "http://vendors.munaluchibridal.com/",
+      "location": null,
+      "description": null
+    },
+    {
+      "name": "Married by Roxy",
+      "url": "https://www.marriedbyrevroxy.com/",
+      "location": null,
+      "description": null
+    },
+    {
+      "name": "Utterly Elegant Events",
+      "url": "https://utterlyelegant.com/",
+      "location": null,
+      "description": null
+    },
+    {
+      "name": "Felicity Moments",
+      "url": "https://www.munaluchibridal.com/cobblestone-love-a-minimalistic-styled-shoot-in-historic-brooklyn/",
+      "location": "historic Brooklyn",
+      "description": "Inspiration for the minimalist at heart, this elegant styled shoot celebrates the finer subtle details of your most memorable moments. Showcased within the historic Brooklyn neighborhood of Dumbo, this intimate affair demonstrates that your perfect city-chic wedding can be just as unforgettable with an essential budget."
+    },
+    {
+      "name": "A Monique Affair",
+      "url": "/listing/a-monique-affair.html",
+      "location": "",
+      "description": "Coterie Spotlight: Chanda of A Monique Affair Talks Wedding Planning"
+    },
+    {
+      "name": "Clapp Studios",
+      "url": "http://www.clappstudios.com/",
+      "location": "Baltimore",
+      "description": "Husband and wife photography team serving the South Atlantic Region and International Destinations. Specializes in weddings, engagement sessions, bridal boudoir, and more."
+    },
+    {
+      "name": "Brides by NoNA",
+      "url": "https://vendors.munaluchibridal.com/listing/brides-by-nona-5c75a33c36115.html",
+      "location": "Maryland",
+      "description": "Dreams Come True: Picturesque Wedding in Maryland"
+    },
+    {
+      "name": "MunaLuchi",
+      "url": "https://www.munaluchibridal.com/edkeshia-and-rinos-elegant-winter-wonderland-engagement/",
+      "location": "",
+      "description": "Featured in the Spring 2018 issue of MunaLuchi Bride magazine, Edkeshia and Rino celebrate their engagement with this elegant winter wonderland photo-session in a fairytale setting. Having met through mutual friends, their first date was a beautiful"
+    },
+    {
+      "name": "Beyond Posh Events",
+      "url": "http://www.beyondposhevents.com/",
+      "location": "Chandon Arbors Event venue",
+      "description": "Inspired by the 2020 Pantone color of the year, classic blue, this styled shoot is full of refined glamour and elegant bridal fashion."
+    },
+    {
+      "name": "Munaluchi Bridal",
+      "url": "https://www.munaluchibridal.com/",
+      "location": "Online",
+      "description": "Online platform for bridal inspiration, fashion, and vendors."
+    },
+    {
+      "name": "Elegant Cream & Gold Ballroom Wedding in Tallahassee, FL",
+      "url": "https://www.munaluchibridal.com/elegant-cream-gold-ballroom-wedding-in-tallahassee-fl/",
+      "location": "Tallahassee, FL"
+    },
+    {
+      "name": "Peculiar Images by RJ",
+      "url": "https://vendors.munaluchibridal.com/listing/peculiar-images-by-rj.html",
+      "location": "Unknown",
+      "description": "Photography vendor"
+    },
+    {
+      "name": "Mosaic by MG",
+      "url": "https://vendors.munaluchibridal.com/listing/mosaic-by-mg-5c75a3415f6ac.html",
+      "location": "Louisiana",
+      "description": "Elegant Mansion Engagement Session"
+    },
+    {
+      "name": "Enchanting Emerald and Ivory Wedding",
+      "url": "https://www.munaluchibridal.com/enchanting-emerald-and-ivory-wedding-in-maryland/",
+      "location": "College Park, MD"
+    },
+    {
+      "name": "Mandy O. Photography",
+      "url": "https://vendors.munaluchibridal.com/listing/mandy-o-photography-5c75a348e4c95.html",
+      "location": "New York",
+      "description": "Captured Stephanie and Roland's enchanting modern glam wedding."
+    },
+    {
+      "name": "Engagement Session in Miami",
+      "url": "https://vendors.munaluchibridal.com/listing/engagement-session-in-miami",
+      "location": "Miami",
+      "description": "Vendor for engagement sessions in Miami."
+    },
+    {
+      "name": "Felicia Graham Beauty",
+      "url": "/listing/felicia-graham-beauty-5c75a3419716a.html",
+      "location": "",
+      "description": "Offered by Felicia Graham Beauty"
+    },
+    {
+      "name": "MaxPhoto NY",
+      "url": "http://www.maxphotony.com/",
+      "location": "New York",
+      "services": [
+        "Photography",
+        "Cinematography"
+      ]
+    },
+    {
+      "name": "Platinum Celebrations Inc.",
+      "url": "https://www.facebook.com/PlatinumCelebrationsInc/",
+      "location": "",
+      "services": [
+        "Event Planning"
+      ]
+    },
+    {
+      "name": "Lotus Bazaar",
+      "url": "https://www.facebook.com/LotusBazaar/",
+      "location": "",
+      "services": [
+        "Bridal Fashions"
+      ]
+    },
+    {
+      "name": "Max Productions",
+      "url": "https://www.facebook.com/maxproductions/",
+      "location": "",
+      "services": [
+        "Cinematography"
+      ]
+    },
+    {
+      "name": "DJ Echo - Team Magnum",
+      "url": "http://www.teammagnumdjs.com/",
+      "location": "",
+      "services": [
+        "DJ & Entertainment"
+      ]
+    },
+    {
+      "name": "City Line Florist",
+      "url": "http://www.citylineflorist.com/",
+      "location": "",
+      "services": [
+        "Floral & D\u00e9cor"
+      ]
+    },
+    {
+      "name": "Jasmine's Flower Shop",
+      "url": "",
+      "location": "",
+      "services": [
+        "Floral & D\u00e9cor"
+      ]
+    },
+    {
+      "name": "Elegant Floral Design",
+      "url": "https://www.facebook.com/pg/ElegantFloralDesignNY/about/",
+      "location": "",
+      "services": [
+        "Floral & Decor (Reception Stage & Mandap)"
+      ]
+    },
+    {
+      "name": "DJ Josephine",
+      "url": "",
+      "location": "",
+      "services": [
+        "Hair & Makeup (Hair Stylist)"
+      ]
+    },
+    {
+      "name": "Shaleira Smith",
+      "url": "",
+      "location": "",
+      "services": [
+        "Hair & Makeup (Bridal Makeup)"
+      ]
+    },
+    {
+      "name": "Leticia Khan",
+      "url": "",
+      "location": "",
+      "services": [
+        "Hair & Makeup (Bridal Party Makeup)"
+      ]
+    },
+    {
+      "name": "Xtreme Soundz Entertainment",
+      "url": "",
+      "location": "",
+      "services": [
+        "Sound",
+        "Lighting"
+      ]
+    },
+    {
+      "name": "Tassa - BoodooSingh Tassa Group",
+      "url": "http://www.boodoosinghny.com/",
+      "location": "",
+      "services": [
+        "Live Music"
+      ]
+    },
+    {
+      "name": "Henna by Yukti Grover",
+      "url": "https://www.facebook.com/pg/hennabyyyukti/about/?ref=page_internal",
+      "location": "",
+      "services": [
+        "Mehndi Artist"
+      ]
+    },
+    {
+      "name": "Old Westbury Gardens",
+      "url": "https://www.oldwestburygardens.org/service_wedding_photography.htm",
+      "location": "",
+      "services": [
+        "Outdoor Venue"
+      ]
+    },
+    {
+      "name": "Pandit Dipak Rambharose",
+      "url": "",
+      "location": "",
+      "services": [
+        "Priest"
+      ]
+    },
+    {
+      "name": "United Party Rentals Inc.",
+      "url": "http://unitedpartyrental.com/",
+      "location": "",
+      "services": [
+        "Rentals (Tent & Staging)"
+      ]
+    },
+    {
+      "name": "Floral Terrace",
+      "url": "http://floralterrace.com/",
+      "location": "",
+      "services": [
+        "Venue"
+      ]
+    },
+    {
+      "name": "Vendor 1",
+      "url": "https://vendors.munaluchibridal.com/listing/vendor1",
+      "location": "New York, NY",
+      "description": "Specializing in floral arrangements for weddings and events."
+    },
+    {
+      "name": "Vendor 2",
+      "url": "https://vendors.munaluchibridal.com/listing/vendor2",
+      "location": "Los Angeles, CA",
+      "description": "Photography services for weddings, portraits, and events."
+    },
+    {
+      "name": "Vendor 3",
+      "url": "https://vendors.munaluchibridal.com/listing/vendor3",
+      "location": "Chicago, IL",
+      "description": "Custom wedding cakes and desserts for all occasions."
+    },
+    {
+      "name": "LaJoy Photography",
+      "url": "https://vendors.munaluchibridal.com/listing/lajoy-photography-5c75a33c09779.html",
+      "location": "Atlanta"
+    },
+    {
+      "name": "Pretty Posh Events",
+      "url": "http://www.munaluchibridal.com/vendor/pretty-posh-events/",
+      "location": "Unknown",
+      "description": "Planner"
+    },
+    {
+      "name": "MunaLuchi Coterie",
+      "url": "https://vendors.munaluchibridal.com/?_ga=2.204449040.1248510642.1591210310-296171807.1585851453",
+      "location": "Online",
+      "description": "Wedding planner"
+    },
+    {
+      "name": "Pauche\u2019 Events",
+      "url": "https://www.paucheevents.com/",
+      "location": "Unknown",
+      "description": "Event planner"
+    },
+    {
+      "name": "Travian Vann Bridal",
+      "url": "https://www.munaluchibridal.com/glamorous-black-tie-wedding-in-virginia-beach-va/",
+      "location": "Virginia Beach, VA"
+    },
+    {
+      "name": "Nana Annan Photography",
+      "url": "/listing/nana-annan-photography-5c75a3387ed9b.html",
+      "location": "Long Island, NY",
+      "description": "Offered glamorous outdoor ceremony full of beautiful greenery and breathtaking cream and gold decor. Jade wore stunning form-fitting Jaye Applewaite gown and exchanged heartfelt vows. Photos available on the website."
+    }
+  ]
+}
